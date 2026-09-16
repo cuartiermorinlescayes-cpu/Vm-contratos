@@ -1,8 +1,16 @@
 {
-  "updated": "2026-09-16T17:35:00-03:00",
+  "updated": "2026-09-16T17:48:00-03:00",
   "automatic_update": true,
+  "update_frequency_hours": 6,
+  "source_count": 7,
   "sources": {
-    "EPEN": "https://www.epen.gov.ar/index.php/licitaciones/"
+    "EPEN": "https://www.epen.gov.ar/index.php/licitaciones/",
+    "Provincia del Neuquén": "https://licitaciones.neuquen.gov.ar/",
+    "CO.DI.NEU.": "https://codi.neuquen.gob.ar/PortalLicitaciones/servlet/com.portallicitaciones.wwlicitacion",
+    "Ministerio de Salud": "https://salud.neuquen.gob.ar/category/licitaciones/",
+    "Boletín Oficial del Neuquén": "https://boficial.neuquen.gov.ar/Boletines",
+    "UPEFE": "https://www.upefe.gob.ar/licitaciones/",
+    "Cadena de Valor Neuquina / ADENEU": "https://cadenavalorneuquina.adeneu.com.ar/"
   },
   "opportunities": [
     {
@@ -25,9 +33,34 @@
       "zona": "Neuquén",
       "estado": "Abierta",
       "apertura": "2026-09-22T10:00:00-03:00",
-      "publicado": "2026-09-10",
-      "descripcion": "Sustitución de relés de sobrecorriente para las SET de Andacollo y Piedra del Águila.",
-      "fuente": "https://www.epen.gov.ar/index.php/2026/09/10/licitacion-publica-n-o-31-2026-recambio-de-protecciones-para-set-andacollo-y-piedra-del-aguila/"
+      "publicado": "2026-09-15",
+      "descripcion": "Recambio de protecciones para las SET de Andacollo y Piedra del Águila.",
+      "fuente": "https://boficial.neuquen.gov.ar/BoletinDetalle?Id=1959"
+    },
+    {
+      "id": "SOP-10-2026",
+      "organismo": "Secretaría de Obras Públicas",
+      "titulo": "Licitación Pública 10/2026 — Escuela 86: refacción, ampliación y SUM",
+      "rubro": "Obras",
+      "zona": "San Martín de los Andes",
+      "estado": "Abierta",
+      "apertura": "2026-09-25T11:00:00-03:00",
+      "publicado": "2026-09-01",
+      "descripcion": "Obra de refacción, ampliación y construcción de SUM en la Escuela N° 86 de San Martín de los Andes.",
+      "fuente": "https://boficial.neuquen.gov.ar/BoletinDetalle?Id=1953"
+    },
+    {
+      "id": "OPTIC-22-2026",
+      "organismo": "Provincia del Neuquén / OPTIC",
+      "titulo": "Licitación Pública 22/2026 — Solución integral de backup y almacenamiento NVMe",
+      "rubro": "Tecnología",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-09-25T10:00:00-03:00",
+      "publicado": "2026-09-11",
+      "descripcion": "Solución integral de backup y almacenamiento de alta performance basada en tecnología NVMe, incluyendo hardware, software, instalación, capacitación y soporte técnico.",
+      "canal": "CO.DI.NEU.",
+      "fuente": "https://boficial.neuquen.gov.ar/BoletinDetalle?Id=1956"
     },
     {
       "id": "EPEN-29-2026",
@@ -38,8 +71,57 @@
       "estado": "Abierta",
       "apertura": "2026-09-24T11:00:00-03:00",
       "publicado": "2026-09-14",
-      "descripcion": "Servicio de limpieza integral y mantenimiento en dependencias indicadas en las especificaciones técnicas, con provisión de personal, elementos y materiales cuando corresponda.",
+      "descripcion": "Servicio de limpieza integral y mantenimiento en dependencias indicadas en las especificaciones técnicas.",
       "fuente": "https://www.epen.gov.ar/index.php/2026/09/14/licitacion-publica-n-29-2026-contratacion-anual-servicio-de-limpieza/"
+    },
+    {
+      "id": "SALUD-19-2026",
+      "organismo": "Ministerio de Salud / CO.DI.NEU.",
+      "titulo": "Licitación Pública 19/2026 — Servicio de limpieza integral, parquización y camilleros",
+      "rubro": "Servicios generales",
+      "zona": "Provincia del Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-09-30T11:00:00-03:00",
+      "publicado": "2026-09-15",
+      "descripcion": "Servicio destinado a hospitales y centros de salud de la Provincia del Neuquén.",
+      "canal": "CO.DI.NEU.",
+      "fuente": "https://boficial.neuquen.gov.ar/BoletinDetalle?Id=1959"
+    },
+    {
+      "id": "ADUS-006-2026",
+      "organismo": "Agencia de Desarrollo Urbano Sustentable",
+      "titulo": "Licitación Pública 006/2026 — 60 lotes con servicios en B° Huiliches",
+      "rubro": "Obras",
+      "zona": "Piedra del Águila",
+      "estado": "Abierta",
+      "apertura": "2026-10-07T11:00:00-03:00",
+      "publicado": "2026-09-15",
+      "descripcion": "Obra de 60 lotes con servicios en el barrio Huiliches, por cuenta y orden de la Municipalidad de Piedra del Águila.",
+      "fuente": "https://boficial.neuquen.gov.ar/BoletinDetalle?Id=1959"
+    },
+    {
+      "id": "UPEFE-07-2026",
+      "organismo": "UPEFE / Provincia del Neuquén",
+      "titulo": "Licitación Pública 07/2026 — Nuevo natatorio olímpico",
+      "rubro": "Obras",
+      "zona": "Neuquén Capital",
+      "estado": "Abierta",
+      "apertura": "2026-10-14T13:00:00-03:00",
+      "publicado": "2026-09-11",
+      "descripcion": "Construcción del nuevo natatorio olímpico de Neuquén Capital dentro del Plan Neuquén Vive.",
+      "fuente": "https://www.upefe.gob.ar/licitaciones/"
+    },
+    {
+      "id": "UPEFE-08-2026",
+      "organismo": "UPEFE / Provincia del Neuquén",
+      "titulo": "Licitación Pública Nacional 08/2026 — Nueva Terminal de Ómnibus",
+      "rubro": "Obras",
+      "zona": "San Martín de los Andes",
+      "estado": "Abierta",
+      "apertura": "2026-10-20T12:00:00-03:00",
+      "publicado": "2026-09-15",
+      "descripcion": "Construcción de la nueva Terminal de Ómnibus de San Martín de los Andes, con financiamiento parcial del BID y plazo de obra de 540 días.",
+      "fuente": "https://www.upefe.gob.ar/licitacion-publica-nacional-n08-2026-obra-nueva-terminal-de-omnibus-san-martin-de-los-andes-provincia-del-neuquen-en-el-marco-del-programa-de-desarrollo-urbano-y-mejora-del-habitat-en-la/"
     },
     {
       "id": "EPEN-30-2026",
@@ -50,8 +132,8 @@
       "estado": "Verificar fecha",
       "apertura": null,
       "publicado": "2026-09-15",
-      "descripcion": "Actualización integral de Oracle E-Business Suite Financials a versión 12.2.x, actualización de base de datos a Oracle 19c e implementación de Oracle Enterprise Command Centers bajo modalidad llave en mano.",
-      "nota": "La publicación oficial visible el 15/09/2026 muestra una fecha de apertura anterior a su propia publicación. Conviene confirmar la fecha vigente directamente con EPEN antes de ofertar.",
+      "descripcion": "Actualización integral de Oracle E-Business Suite Financials, base de datos Oracle e implementación asociada.",
+      "nota": "La publicación oficial visible muestra una inconsistencia en la fecha de apertura. Verificar la fecha vigente directamente con EPEN antes de ofertar.",
       "fuente": "https://www.epen.gov.ar/index.php/2026/09/15/licitacion-publica-n-30-2026-contratacion-serv-oracle-e-business/"
     }
   ]
