@@ -1,9 +1,58 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-16T17:35:00-03:00",
+  "automatic_update": true,
+  "sources": {
+    "EPEN": "https://www.epen.gov.ar/index.php/licitaciones/"
+  },
   "opportunities": [
-    {"id":"EPEN-25-2026-2","organismo":"EPEN","titulo":"Licitación Pública 25/2026 — Segundo llamado: adquisición de equipamiento informático","rubro":"Tecnología","zona":"Neuquén","estado":"Abierta","apertura":"2026-09-17T10:00:00-03:00","publicado":"2026-08-27","descripcion":"Adquisición de computadoras de escritorio y portátiles, licencias de sistema operativo, Microsoft Office 2024, monitores, teclados, mouse y auriculares.","tags":["informática","computadoras","notebooks","office","tecnología"],"fuente":"https://www.epen.gov.ar/index.php/2026/08/27/licitacion-publica-25-2026-segundo-llamado-adquisicion-de-equipamiento-informatico/"},
-    {"id":"EPEN-29-2026","organismo":"EPEN","titulo":"Licitación Pública 29/2026 — Contratación anual de servicio de limpieza","rubro":"Servicios generales","zona":"Neuquén","estado":"Abierta","apertura":"2026-09-24T11:00:00-03:00","publicado":"2026-09-14","descripcion":"Servicio de limpieza integral y mantenimiento en dependencias indicadas en las especificaciones técnicas, incluyendo personal y materiales cuando corresponda.","tags":["limpieza","mantenimiento","servicios generales","insumos"],"fuente":"https://www.epen.gov.ar/index.php/2026/09/14/licitacion-publica-n-29-2026-contratacion-anual-servicio-de-limpieza/"},
-    {"id":"EPEN-31-2026","organismo":"EPEN","titulo":"Licitación Pública 31/2026 — Recambio de protecciones SET Andacollo y Piedra del Águila","rubro":"Energía","zona":"Neuquén","estado":"Abierta","apertura":"2026-09-22T10:00:00-03:00","publicado":"2026-09-10","descripcion":"Sustitución de relés de sobrecorriente para las SET de Andacollo y Piedra del Águila.","tags":["energía","eléctrica","relés","protecciones","subestación"],"fuente":"https://www.epen.gov.ar/index.php/2026/09/10/licitacion-publica-n-o-31-2026-recambio-de-protecciones-para-set-andacollo-y-piedra-del-aguila/"},
-    {"id":"EPEN-30-2026","organismo":"EPEN","titulo":"Licitación Pública 30/2026 — Actualización y migración tecnológica Oracle E-Business Suite","rubro":"Tecnología","zona":"Neuquén","estado":"Consultar fuente","apertura":null,"publicado":"2026-09-15","descripcion":"Servicio de actualización integral y migración tecnológica de Oracle E-Business Suite Financials y base de datos.","tags":["oracle","EBS","base de datos","migración","tecnología"],"fuente":"https://www.epen.gov.ar/index.php/licitaciones/"}
+    {
+      "id": "EPEN-25-2026-2",
+      "organismo": "EPEN",
+      "titulo": "Licitación Pública 25/2026 — Segundo llamado: adquisición de equipamiento informático",
+      "rubro": "Tecnología",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-09-17T10:00:00-03:00",
+      "publicado": "2026-08-27",
+      "descripcion": "Adquisición de computadoras de escritorio y portátiles, licencias de sistema operativo, Microsoft Office 2024, monitores, teclados, mouse y auriculares con micrófono.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/08/27/licitacion-publica-25-2026-segundo-llamado-adquisicion-de-equipamiento-informatico/"
+    },
+    {
+      "id": "EPEN-31-2026",
+      "organismo": "EPEN",
+      "titulo": "Licitación Pública 31/2026 — Recambio de protecciones para SET Andacollo y Piedra del Águila",
+      "rubro": "Energía",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-09-22T10:00:00-03:00",
+      "publicado": "2026-09-10",
+      "descripcion": "Sustitución de relés de sobrecorriente para las SET de Andacollo y Piedra del Águila.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/09/10/licitacion-publica-n-o-31-2026-recambio-de-protecciones-para-set-andacollo-y-piedra-del-aguila/"
+    },
+    {
+      "id": "EPEN-29-2026",
+      "organismo": "EPEN",
+      "titulo": "Licitación Pública 29/2026 — Contratación anual de servicio de limpieza",
+      "rubro": "Servicios generales",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-09-24T11:00:00-03:00",
+      "publicado": "2026-09-14",
+      "descripcion": "Servicio de limpieza integral y mantenimiento en dependencias indicadas en las especificaciones técnicas, con provisión de personal, elementos y materiales cuando corresponda.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/09/14/licitacion-publica-n-29-2026-contratacion-anual-servicio-de-limpieza/"
+    },
+    {
+      "id": "EPEN-30-2026",
+      "organismo": "EPEN",
+      "titulo": "Licitación Pública 30/2026 — Actualización y migración tecnológica Oracle E-Business Suite",
+      "rubro": "Tecnología",
+      "zona": "Neuquén",
+      "estado": "Verificar fecha",
+      "apertura": null,
+      "publicado": "2026-09-15",
+      "descripcion": "Actualización integral de Oracle E-Business Suite Financials a versión 12.2.x, actualización de base de datos a Oracle 19c e implementación de Oracle Enterprise Command Centers bajo modalidad llave en mano.",
+      "nota": "La publicación oficial visible el 15/09/2026 muestra una fecha de apertura anterior a su propia publicación. Conviene confirmar la fecha vigente directamente con EPEN antes de ofertar.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/09/15/licitacion-publica-n-30-2026-contratacion-serv-oracle-e-business/"
+    }
   ]
 }
