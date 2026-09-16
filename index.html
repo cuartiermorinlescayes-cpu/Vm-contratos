@@ -1,2 +1,130 @@
 <!doctype html>
-<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#111827"><title>VM Contratos</title><link rel="manifest" href="manifest.json"><style>body{font-family:system-ui;margin:0;background:#f4f6f8;color:#111827}header{background:#111827;color:white;padding:18px}.wrap{max-width:900px;margin:auto;padding:16px}.card{background:white;border:1px solid #ddd;border-radius:14px;padding:14px;margin:12px 0}.btn{display:inline-block;background:#2563eb;color:white;padding:10px 12px;border-radius:10px;text-decoration:none}.btn-pro{display:inline-block;background:#111827;color:white;padding:13px 16px;border-radius:11px;text-decoration:none;font-weight:700}.chip{display:inline-block;background:#eef2ff;padding:5px 8px;border-radius:20px;margin:4px;font-size:13px}.source-chip{display:inline-block;background:#ecfdf5;color:#065f46;padding:5px 8px;border-radius:20px;margin:3px;font-size:12px}input{width:100%;box-sizing:border-box;padding:12px;border:1px solid #ccc;border-radius:10px}h1{margin:0}.muted{color:#6b7280}.warn{background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:10px;margin-top:8px}.status{font-size:14px;margin:10px 0}.sources{background:white;border:1px solid #ddd;border-radius:12px;padding:10px;margin:10px 0}.pro{background:linear-gradient(135deg,#eef2ff,#fff);border:2px solid #111827;border-radius:16px;padding:16px;margin:16px 0}.pro h2{margin:0 0 8px}.price{font-size:30px;font-weight:800;margin:8px 0}.pro ul{padding-left:20px}.small{font-size:12px;color:#6b7280;margin-top:10px}</style></head><body><header><div class="wrap"><h1>VM Contratos</h1><div>Neuquén · Vaca Muerta · oportunidades verificables</div></div></header><main class="wrap"><h2>Contratos y licitaciones en un solo lugar</h2><p class="muted">Buscá oportunidades y abrí siempre la publicación oficial antes de presentar una oferta.</p><div id="status" class="status muted">Actualizando oportunidades…</div><div id="sources" class="sources"><strong>Fuentes monitoreadas</strong><div id="sourcechips"></div></div><section class="pro"><h2>VM Contratos Pro</h2><div class="price">$49.000 <span style="font-size:16px;font-weight:600">ARS / 1 mes</span></div><ul><li>Acceso al servicio Pro de VM Contratos.</li><li>Seguimiento de oportunidades de Neuquén y Vaca Muerta.</li><li>Próximas funciones Pro: alertas, favoritos, filtros avanzados y análisis de pliegos.</li></ul><a class="btn-pro" href="https://mpago.li/2Hshq6h" target="_blank" rel="noopener">Contratar Pro por Mercado Pago</a><div class="small">Pago por 1 mes. Por ahora la renovación es manual. El pago todavía no habilita automáticamente funciones Pro; esa validación se incorporará en una próxima etapa.</div></section><input id="q" placeholder="Buscar limpieza, tecnología, energía, obras..."><div id="cards"></div></main><script>let D=[];const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));function fmt(d){if(!d)return'Consultar fuente';let x=new Date(d);return Number.isNaN(x.getTime())?esc(d):x.toLocaleString('es-AR')}function render(){let q=document.getElementById('q').value.toLowerCase();let a=D.filter(o=>(o.titulo+' '+o.descripcion+' '+o.rubro+' '+o.organismo+' '+(o.zona||'')+' '+(o.canal||'')).toLowerCase().includes(q));document.getElementById('cards').innerHTML=a.map(o=>`<article class="card"><h3>${esc(o.titulo)}</h3><div><span class="chip">${esc(o.organismo)}</span><span class="chip">${esc(o.rubro)}</span><span class="chip">${esc(o.zona||'Neuquén')}</span><span class="chip">${esc(o.estado)}</span>${o.canal?`<span class="chip">${esc(o.canal)}</span>`:''}</div><p>${esc(o.descripcion)}</p><p class="muted">Apertura: ${fmt(o.apertura)}</p>${o.nota?`<div class="warn">${esc(o.nota)}</div>`:''}<p><a class="btn" target="_blank" rel="noopener" href="${o.fuente}">Fuente oficial</a></p></article>`).join('')||'<p>No hay resultados.</p>'}fetch('data.json?'+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(x=>{D=x.opportunities||[];let u=x.updated?new Date(x.updated):null;document.getElementById('status').textContent=`${D.length} oportunidades · ${x.source_count||Object.keys(x.sources||{}).length} fuentes · última actualización ${u&&!Number.isNaN(u.getTime())?u.toLocaleString('es-AR'):'reciente'}${x.automatic_update?` · automática cada ${x.update_frequency_hours||6} h`:''}`;document.getElementById('sourcechips').innerHTML=Object.keys(x.sources||{}).map(s=>`<span class="source-chip">${esc(s)}</span>`).join('');render()}).catch(()=>{document.getElementById('status').textContent='No se pudo comprobar la última actualización. Mostrando datos disponibles.';render()});document.getElementById('q').addEventListener('input',render);if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js');</script></body></html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#111827">
+<title>VM Contratos</title>
+<link rel="manifest" href="manifest.json">
+<style>
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#f4f6f8;color:#111827}header{background:#111827;color:white;padding:18px}.wrap{max-width:900px;margin:auto;padding:16px}.card{background:white;border:1px solid #ddd;border-radius:14px;padding:14px;margin:12px 0}.btn,.btn2,.btn-pro{display:inline-block;border:0;border-radius:10px;padding:10px 12px;font:inherit;font-weight:650;cursor:pointer;text-decoration:none}.btn{background:#2563eb;color:white}.btn2{background:#eef2ff;color:#111827}.btn-pro{background:#111827;color:white;padding:13px 16px}.chip{display:inline-block;background:#eef2ff;padding:5px 8px;border-radius:20px;margin:4px;font-size:13px}.source-chip{display:inline-block;background:#ecfdf5;color:#065f46;padding:5px 8px;border-radius:20px;margin:3px;font-size:12px}input{width:100%;box-sizing:border-box;padding:12px;border:1px solid #ccc;border-radius:10px;font:inherit}h1{margin:0}.muted{color:#6b7280}.warn{background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:10px;margin-top:8px}.status{font-size:14px;margin:10px 0}.sources{background:white;border:1px solid #ddd;border-radius:12px;padding:10px;margin:10px 0}.pro{background:linear-gradient(135deg,#eef2ff,#fff);border:2px solid #111827;border-radius:16px;padding:16px;margin:16px 0}.pro h2{margin:0 0 8px}.price{font-size:30px;font-weight:800;margin:8px 0}.pro ul{padding-left:20px}.small{font-size:12px;color:#6b7280;margin-top:10px}.auth-grid{display:grid;grid-template-columns:1fr;gap:8px}.auth-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.badge-free{background:#e5e7eb}.badge-pro{background:#dcfce7;color:#166534}.favbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:12px 0}.favbtn{border:1px solid #c7d2fe;background:#fff;border-radius:10px;padding:8px 10px;font:inherit;cursor:pointer}.favbtn.active{background:#eef2ff;font-weight:700}.hidden{display:none!important}@media(min-width:700px){.auth-grid{grid-template-columns:1fr 1fr}.auth-grid .wide{grid-column:1/-1}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><h1>VM Contratos</h1><div>Neuquén · Vaca Muerta · oportunidades verificables</div></div></header>
+<main class="wrap">
+<h2>Contratos y licitaciones en un solo lugar</h2>
+<p class="muted">Buscá oportunidades y abrí siempre la publicación oficial antes de presentar una oferta.</p>
+
+<section class="card" id="accountCard">
+  <h2 style="margin-top:0">Mi cuenta</h2>
+  <div id="signedOutBox">
+    <div class="auth-grid">
+      <input id="fullName" class="wide" autocomplete="name" placeholder="Nombre y apellido (para registrarte)">
+      <input id="email" type="email" autocomplete="email" placeholder="Email">
+      <input id="password" type="password" autocomplete="current-password" minlength="6" placeholder="Contraseña (mínimo 6 caracteres)">
+    </div>
+    <div class="auth-actions">
+      <button class="btn" id="loginBtn">Iniciar sesión</button>
+      <button class="btn2" id="signupBtn">Crear cuenta gratis</button>
+    </div>
+  </div>
+  <div id="signedInBox" class="hidden">
+    <div><strong id="userEmail"></strong></div>
+    <div style="margin:8px 0">Plan: <span id="planBadge" class="chip badge-free">Gratis</span></div>
+    <div id="planDetail" class="muted"></div>
+    <div class="auth-actions"><button class="btn2" id="logoutBtn">Cerrar sesión</button></div>
+  </div>
+  <div id="authMessage" class="status muted"></div>
+</section>
+
+<div id="status" class="status muted">Actualizando oportunidades…</div>
+<div id="sources" class="sources"><strong>Fuentes monitoreadas</strong><div id="sourcechips"></div></div>
+
+<section class="pro" id="proSection">
+  <h2>VM Contratos Pro</h2>
+  <div class="price">$49.000 <span style="font-size:16px;font-weight:600">ARS / 1 mes</span></div>
+  <ul><li>Favoritos y filtro de oportunidades guardadas.</li><li>Seguimiento de oportunidades de Neuquén y Vaca Muerta.</li><li>Base para alertas, filtros avanzados y análisis de pliegos.</li></ul>
+  <div id="proPayBox"><a class="btn-pro" href="https://mpago.li/2Hshq6h" target="_blank" rel="noopener">Contratar Pro por Mercado Pago</a><div class="small">Pago por 1 mes. Por ahora la renovación es manual. La activación automática por Mercado Pago se incorporará en el siguiente paso.</div></div>
+  <div id="proActiveBox" class="hidden"><strong>✓ Tu acceso Pro está activo.</strong></div>
+</section>
+
+<input id="q" placeholder="Buscar limpieza, tecnología, energía, obras...">
+<div class="favbar"><label id="favFilterLabel" class="hidden"><input id="onlyFavs" type="checkbox" style="width:auto"> Mostrar solo favoritos Pro</label></div>
+<div id="cards"></div>
+</main>
+
+<script type="module">
+import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm';
+
+const SUPABASE_URL='https://duvkioeusmvrnfmhkjcc.supabase.co';
+const SUPABASE_KEY='sb_publishable_ltlWW6pFQAgG9cgW3zlIUQ_CAB-HfqQ';
+const APP_URL='https://cuartiermorinlescayes-cpu.github.io/Vm-contratos/';
+const sb=createClient(SUPABASE_URL,SUPABASE_KEY);
+
+let D=[];
+let currentUser=null;
+let currentProfile=null;
+let favorites=new Set();
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function fmt(d){if(!d)return'Consultar fuente';let x=new Date(d);return Number.isNaN(x.getTime())?esc(d):x.toLocaleString('es-AR')}
+function activePro(){if(!currentProfile||currentProfile.plan!=='pro')return false;if(!currentProfile.pro_expires_at)return true;return new Date(currentProfile.pro_expires_at)>new Date()}
+function favKey(){return currentUser?`vm_favs_${currentUser.id}`:'vm_favs_guest'}
+function loadFavs(){try{favorites=new Set(JSON.parse(localStorage.getItem(favKey())||'[]'))}catch{favorites=new Set()}}
+function saveFavs(){localStorage.setItem(favKey(),JSON.stringify([...favorites]))}
+function setAuthMessage(msg,bad=false){$('authMessage').textContent=msg||'';$('authMessage').style.color=bad?'#b91c1c':'#6b7280'}
+
+async function loadProfile(){currentProfile=null;if(!currentUser)return;const {data,error}=await sb.from('profiles').select('email,full_name,plan,pro_expires_at').eq('id',currentUser.id).maybeSingle();if(error){setAuthMessage('No se pudo leer tu plan. Volvé a intentar.',true);return}currentProfile=data}
+function updateAccountUI(){
+  const signed=!!currentUser;
+  $('signedOutBox').classList.toggle('hidden',signed);
+  $('signedInBox').classList.toggle('hidden',!signed);
+  if(!signed){$('proActiveBox').classList.add('hidden');$('proPayBox').classList.remove('hidden');$('favFilterLabel').classList.add('hidden');return}
+  $('userEmail').textContent=currentUser.email||'';
+  const pro=activePro();
+  $('planBadge').textContent=pro?'Pro':'Gratis';
+  $('planBadge').className=`chip ${pro?'badge-pro':'badge-free'}`;
+  if(pro){const until=currentProfile?.pro_expires_at?new Date(currentProfile.pro_expires_at).toLocaleDateString('es-AR'):'sin vencimiento registrado';$('planDetail').textContent=`Acceso Pro activo hasta ${until}.`;$('proActiveBox').classList.remove('hidden');$('proPayBox').classList.add('hidden');$('favFilterLabel').classList.remove('hidden')}else{$('planDetail').textContent='Tu cuenta está en el plan Gratis.';$('proActiveBox').classList.add('hidden');$('proPayBox').classList.remove('hidden');$('favFilterLabel').classList.add('hidden');$('onlyFavs').checked=false}
+}
+async function refreshAuth(){
+  const {data:{session}}=await sb.auth.getSession();
+  currentUser=session?.user||null;
+  if(currentUser){await loadProfile();loadFavs()}else{currentProfile=null;favorites=new Set()}
+  updateAccountUI();render();
+}
+
+$('signupBtn').addEventListener('click',async()=>{
+  const email=$('email').value.trim(),password=$('password').value,name=$('fullName').value.trim();
+  if(!email||!password){setAuthMessage('Ingresá email y contraseña.',true);return}if(password.length<6){setAuthMessage('La contraseña debe tener al menos 6 caracteres.',true);return}
+  setAuthMessage('Creando cuenta…');
+  const {data,error}=await sb.auth.signUp({email,password,options:{data:{full_name:name},emailRedirectTo:APP_URL}});
+  if(error){setAuthMessage(error.message,true);return}
+  if(data.session){setAuthMessage('Cuenta creada. Ya iniciaste sesión.');await refreshAuth()}else{setAuthMessage('Cuenta creada. Revisá tu email y confirmá la cuenta para poder iniciar sesión.')}
+});
+$('loginBtn').addEventListener('click',async()=>{
+  const email=$('email').value.trim(),password=$('password').value;
+  if(!email||!password){setAuthMessage('Ingresá email y contraseña.',true);return}
+  setAuthMessage('Iniciando sesión…');
+  const {error}=await sb.auth.signInWithPassword({email,password});
+  if(error){setAuthMessage('No se pudo iniciar sesión. Revisá el email, la contraseña y que el correo esté confirmado.',true);return}
+  setAuthMessage('Sesión iniciada.');await refreshAuth();
+});
+$('logoutBtn').addEventListener('click',async()=>{await sb.auth.signOut();setAuthMessage('Sesión cerrada.');await refreshAuth()});
+sb.auth.onAuthStateChange(()=>{setTimeout(refreshAuth,0)});
+
+function render(){
+  let q=$('q').value.toLowerCase();
+  let a=D.filter(o=>(o.titulo+' '+o.descripcion+' '+o.rubro+' '+o.organismo+' '+(o.zona||'')+' '+(o.canal||'')).toLowerCase().includes(q));
+  if(activePro()&&$('onlyFavs').checked)a=a.filter(o=>favorites.has(o.id));
+  $('cards').innerHTML=a.map(o=>`<article class="card"><h3>${esc(o.titulo)}</h3><div><span class="chip">${esc(o.organismo)}</span><span class="chip">${esc(o.rubro)}</span><span class="chip">${esc(o.zona||'Neuquén')}</span><span class="chip">${esc(o.estado)}</span>${o.canal?`<span class="chip">${esc(o.canal)}</span>`:''}</div><p>${esc(o.descripcion)}</p><p class="muted">Apertura: ${fmt(o.apertura)}</p>${o.nota?`<div class="warn">${esc(o.nota)}</div>`:''}<p><a class="btn" target="_blank" rel="noopener" href="${o.fuente}">Fuente oficial</a> <button class="favbtn ${favorites.has(o.id)?'active':''}" data-fav="${esc(o.id)}">${favorites.has(o.id)?'★ Guardada':'☆ Guardar'}</button></p></article>`).join('')||'<p>No hay resultados.</p>';
+}
+$('cards').addEventListener('click',e=>{const b=e.target.closest('[data-fav]');if(!b)return;if(!currentUser){setAuthMessage('Iniciá sesión para usar funciones Pro.',true);$('accountCard').scrollIntoView({behavior:'smooth'});return}if(!activePro()){document.getElementById('proSection').scrollIntoView({behavior:'smooth'});return}const id=b.dataset.fav;if(favorites.has(id))favorites.delete(id);else favorites.add(id);saveFavs();render()});
+$('q').addEventListener('input',render);$('onlyFavs').addEventListener('change',render);
+
+fetch('data.json?'+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(x=>{D=x.opportunities||[];let u=x.updated?new Date(x.updated):null;$('status').textContent=`${D.length} oportunidades · ${x.source_count||Object.keys(x.sources||{}).length} fuentes · última actualización ${u&&!Number.isNaN(u.getTime())?u.toLocaleString('es-AR'):'reciente'}${x.automatic_update?` · automática cada ${x.update_frequency_hours||6} h`:''}`;$('sourcechips').innerHTML=Object.keys(x.sources||{}).map(s=>`<span class="source-chip">${esc(s)}</span>`).join('');render()}).catch(()=>{$('status').textContent='No se pudo comprobar la última actualización. Mostrando datos disponibles.';render()});
+
+await refreshAuth();
+if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js');
+</script>
+</body></html>
