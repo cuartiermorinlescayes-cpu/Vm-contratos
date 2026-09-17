@@ -7,7 +7,7 @@
 <title>VM Contratos</title>
 <link rel="manifest" href="manifest.json">
 <style>
-body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#f4f6f8;color:#111827}header{background:#111827;color:white;padding:18px}.wrap{max-width:900px;margin:auto;padding:16px}.card{background:white;border:1px solid #ddd;border-radius:14px;padding:14px;margin:12px 0}.btn,.btn2,.btn-pro{display:inline-block;border:0;border-radius:10px;padding:10px 12px;font:inherit;font-weight:650;cursor:pointer;text-decoration:none}.btn{background:#2563eb;color:white}.btn2{background:#eef2ff;color:#111827}.btn-pro{background:#111827;color:white;padding:13px 16px}.chip{display:inline-block;background:#eef2ff;padding:5px 8px;border-radius:20px;margin:4px;font-size:13px}.source-chip{display:inline-block;background:#ecfdf5;color:#065f46;padding:5px 8px;border-radius:20px;margin:3px;font-size:12px}input{width:100%;box-sizing:border-box;padding:12px;border:1px solid #ccc;border-radius:10px;font:inherit}h1{margin:0}.muted{color:#6b7280}.warn{background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:10px;margin-top:8px}.status{font-size:14px;margin:10px 0}.sources{background:white;border:1px solid #ddd;border-radius:12px;padding:10px;margin:10px 0}.pro{background:linear-gradient(135deg,#eef2ff,#fff);border:2px solid #111827;border-radius:16px;padding:16px;margin:16px 0}.pro h2{margin:0 0 8px}.price{font-size:30px;font-weight:800;margin:8px 0}.pro ul{padding-left:20px}.small{font-size:12px;color:#6b7280;margin-top:10px}.auth-grid{display:grid;grid-template-columns:1fr;gap:8px}.auth-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.badge-free{background:#e5e7eb}.badge-pro{background:#dcfce7;color:#166534}.favbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:12px 0}.favbtn{border:1px solid #c7d2fe;background:#fff;border-radius:10px;padding:8px 10px;font:inherit;cursor:pointer}.favbtn.active{background:#eef2ff;font-weight:700}.hidden{display:none!important}@media(min-width:700px){.auth-grid{grid-template-columns:1fr 1fr}.auth-grid .wide{grid-column:1/-1}}
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#f4f6f8;color:#111827}header{background:#111827;color:white;padding:18px}.wrap{max-width:900px;margin:auto;padding:16px}.card{background:white;border:1px solid #ddd;border-radius:14px;padding:14px;margin:12px 0}.btn,.btn2,.btn-pro{display:inline-block;border:0;border-radius:10px;padding:10px 12px;font:inherit;font-weight:650;cursor:pointer;text-decoration:none}.btn{background:#2563eb;color:white}.btn2{background:#eef2ff;color:#111827}.btn-pro{background:#111827;color:white;padding:13px 16px}.chip{display:inline-block;background:#eef2ff;padding:5px 8px;border-radius:20px;margin:4px;font-size:13px}.source-chip{display:inline-block;background:#ecfdf5;color:#065f46;padding:5px 8px;border-radius:20px;margin:3px;font-size:12px}input{width:100%;box-sizing:border-box;padding:12px;border:1px solid #ccc;border-radius:10px;font:inherit}h1{margin:0}.muted{color:#6b7280}.warn{background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:10px;margin-top:8px}.status{font-size:14px;margin:10px 0}.sources{background:white;border:1px solid #ddd;border-radius:12px;padding:10px;margin:10px 0}.pro{background:linear-gradient(135deg,#eef2ff,#fff);border:2px solid #111827;border-radius:16px;padding:16px;margin:16px 0}.pro h2{margin:0 0 8px}.price{font-size:30px;font-weight:800;margin:8px 0}.pro ul{padding-left:20px}.small{font-size:12px;color:#6b7280;margin-top:10px}.auth-grid{display:grid;grid-template-columns:1fr;gap:8px}.auth-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.badge-free{background:#e5e7eb}.badge-pro{background:#dcfce7;color:#166534}.favbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:12px 0}.favbtn{border:1px solid #c7d2fe;background:#fff;border-radius:10px;padding:8px 10px;font:inherit;cursor:pointer}.favbtn.active{background:#eef2ff;font-weight:700}.linkbtn{border:0;background:transparent;color:#2563eb;padding:8px 0;font:inherit;font-weight:650;cursor:pointer;text-decoration:underline}.hidden{display:none!important}@media(min-width:700px){.auth-grid{grid-template-columns:1fr 1fr}.auth-grid .wide{grid-column:1/-1}}
 </style>
 </head>
 <body>
@@ -27,6 +27,18 @@ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;bac
     <div class="auth-actions">
       <button class="btn" id="loginBtn">Iniciar sesión</button>
       <button class="btn2" id="signupBtn">Crear cuenta gratis</button>
+    </div>
+    <button class="linkbtn" id="forgotPasswordBtn" type="button">Olvidé mi contraseña</button>
+  </div>
+  <div id="resetPasswordBox" class="hidden">
+    <p><strong>Elegí una contraseña nueva</strong></p>
+    <div class="auth-grid">
+      <input id="newPassword" type="password" autocomplete="new-password" minlength="6" placeholder="Nueva contraseña (mínimo 6 caracteres)">
+      <input id="confirmPassword" type="password" autocomplete="new-password" minlength="6" placeholder="Repetí la nueva contraseña">
+    </div>
+    <div class="auth-actions">
+      <button class="btn" id="updatePasswordBtn" type="button">Guardar nueva contraseña</button>
+      <button class="btn2" id="cancelResetBtn" type="button">Cancelar</button>
     </div>
   </div>
   <div id="signedInBox" class="hidden">
@@ -66,6 +78,7 @@ let D=[];
 let currentUser=null;
 let currentProfile=null;
 let favorites=new Set();
+let passwordRecovery=new URLSearchParams(location.hash.slice(1)).get('type')==='recovery';
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function fmt(d){if(!d)return'Consultar fuente';let x=new Date(d);return Number.isNaN(x.getTime())?esc(d):x.toLocaleString('es-AR')}
@@ -78,8 +91,10 @@ function setAuthMessage(msg,bad=false){$('authMessage').textContent=msg||'';$('a
 async function loadProfile(){currentProfile=null;if(!currentUser)return;const {data,error}=await sb.from('profiles').select('email,full_name,plan,pro_expires_at').eq('id',currentUser.id).maybeSingle();if(error){setAuthMessage('No se pudo leer tu plan. Volvé a intentar.',true);return}currentProfile=data}
 function updateAccountUI(){
   const signed=!!currentUser;
-  $('signedOutBox').classList.toggle('hidden',signed);
-  $('signedInBox').classList.toggle('hidden',!signed);
+  $('resetPasswordBox').classList.toggle('hidden',!passwordRecovery);
+  $('signedOutBox').classList.toggle('hidden',signed||passwordRecovery);
+  $('signedInBox').classList.toggle('hidden',!signed||passwordRecovery);
+  if(passwordRecovery){$('proActiveBox').classList.add('hidden');$('proPayBox').classList.remove('hidden');$('favFilterLabel').classList.add('hidden');return}
   if(!signed){$('proActiveBox').classList.add('hidden');$('proPayBox').classList.remove('hidden');$('favFilterLabel').classList.add('hidden');return}
   $('userEmail').textContent=currentUser.email||'';
   const pro=activePro();
@@ -110,8 +125,44 @@ $('loginBtn').addEventListener('click',async()=>{
   if(error){setAuthMessage('No se pudo iniciar sesión. Revisá el email, la contraseña y que el correo esté confirmado.',true);return}
   setAuthMessage('Sesión iniciada.');await refreshAuth();
 });
+$('forgotPasswordBtn').addEventListener('click',async()=>{
+  const email=$('email').value.trim();
+  if(!email){setAuthMessage('Ingresá tu email y después tocá “Olvidé mi contraseña”.',true);$('email').focus();return}
+  setAuthMessage('Enviando enlace de recuperación…');
+  const {error}=await sb.auth.resetPasswordForEmail(email,{redirectTo:APP_URL});
+  if(error){setAuthMessage('No se pudo enviar el enlace. Esperá un momento y volvé a intentar.',true);return}
+  setAuthMessage('Te enviamos un enlace. Abrí tu email y seguí los pasos para crear una contraseña nueva.');
+});
+$('updatePasswordBtn').addEventListener('click',async()=>{
+  const password=$('newPassword').value,confirmation=$('confirmPassword').value;
+  if(password.length<6){setAuthMessage('La contraseña debe tener al menos 6 caracteres.',true);return}
+  if(password!==confirmation){setAuthMessage('Las contraseñas no coinciden.',true);return}
+  setAuthMessage('Guardando la nueva contraseña…');
+  const {error}=await sb.auth.updateUser({password});
+  if(error){setAuthMessage('No se pudo cambiar la contraseña. Pedí un enlace nuevo y volvé a intentar.',true);return}
+  passwordRecovery=false;
+  history.replaceState({},document.title,APP_URL);
+  await sb.auth.signOut();
+  $('newPassword').value='';$('confirmPassword').value='';
+  setAuthMessage('Contraseña cambiada. Ya podés iniciar sesión con la nueva contraseña.');
+  await refreshAuth();
+});
+$('cancelResetBtn').addEventListener('click',async()=>{
+  passwordRecovery=false;
+  history.replaceState({},document.title,APP_URL);
+  await sb.auth.signOut();
+  setAuthMessage('Recuperación cancelada.');
+  await refreshAuth();
+});
 $('logoutBtn').addEventListener('click',async()=>{await sb.auth.signOut();setAuthMessage('Sesión cerrada.');await refreshAuth()});
-sb.auth.onAuthStateChange(()=>{setTimeout(refreshAuth,0)});
+sb.auth.onAuthStateChange((event)=>{
+  if(event==='PASSWORD_RECOVERY'){
+    passwordRecovery=true;
+    setTimeout(()=>{updateAccountUI();setAuthMessage('Escribí y confirmá tu contraseña nueva.')},0);
+    return;
+  }
+  setTimeout(refreshAuth,0);
+});
 
 function render(){
   let q=$('q').value.toLowerCase();
