@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cuartiermorinlescayes-cpu.github.io/Vm-contratos/sitemap.xml

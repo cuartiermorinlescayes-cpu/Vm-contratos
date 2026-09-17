@@ -1,0 +1,36 @@
+{
+  "updated": "2026-09-17",
+  "source": "Portal oficial de empleos de YPF",
+  "jobs": [
+    {
+      "id": "YPF-121409",
+      "titulo": "Técnico de Almacén UP",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Áreas corporativas",
+      "publicado": "16/09/2026",
+      "descripcion": "Búsqueda oficial de YPF para una posición técnica de almacén en Neuquén.",
+      "fuente": "https://oportunidades.ypf.com/job/"
+    },
+    {
+      "id": "YPF-120658",
+      "titulo": "Analista de Logística",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Áreas corporativas",
+      "publicado": "15/09/2026",
+      "descripcion": "Búsqueda oficial de YPF para una posición de logística en Neuquén.",
+      "fuente": "https://oportunidades.ypf.com/job/"
+    },
+    {
+      "id": "YPF-121379",
+      "titulo": "Comprador",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Áreas corporativas",
+      "publicado": "14/09/2026",
+      "descripcion": "Búsqueda oficial de YPF para una posición de compras en Neuquén.",
+      "fuente": "https://oportunidades.ypf.com/job/"
+    }
+  ]
+}
