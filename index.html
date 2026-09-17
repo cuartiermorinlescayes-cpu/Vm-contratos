@@ -7,7 +7,7 @@
 <title>VM Contratos</title>
 <link rel="manifest" href="manifest.json">
 <style>
-body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#f4f6f8;color:#111827}header{background:#111827;color:white;padding:18px}.wrap{max-width:900px;margin:auto;padding:16px}.card{background:white;border:1px solid #ddd;border-radius:14px;padding:14px;margin:12px 0}.btn,.btn2,.btn-pro{display:inline-block;border:0;border-radius:10px;padding:10px 12px;font:inherit;font-weight:650;cursor:pointer;text-decoration:none}.btn{background:#2563eb;color:white}.btn2{background:#eef2ff;color:#111827}.btn-pro{background:#111827;color:white;padding:13px 16px}.chip{display:inline-block;background:#eef2ff;padding:5px 8px;border-radius:20px;margin:4px;font-size:13px}.source-chip{display:inline-block;background:#ecfdf5;color:#065f46;padding:5px 8px;border-radius:20px;margin:3px;font-size:12px}input{width:100%;box-sizing:border-box;padding:12px;border:1px solid #ccc;border-radius:10px;font:inherit}h1{margin:0}.muted{color:#6b7280}.warn{background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:10px;margin-top:8px}.status{font-size:14px;margin:10px 0}.sources{background:white;border:1px solid #ddd;border-radius:12px;padding:10px;margin:10px 0}.pro{background:linear-gradient(135deg,#eef2ff,#fff);border:2px solid #111827;border-radius:16px;padding:16px;margin:16px 0}.pro h2{margin:0 0 8px}.price{font-size:30px;font-weight:800;margin:8px 0}.pro ul{padding-left:20px}.small{font-size:12px;color:#6b7280;margin-top:10px}.auth-grid{display:grid;grid-template-columns:1fr;gap:8px}.auth-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.badge-free{background:#e5e7eb}.badge-pro{background:#dcfce7;color:#166534}.favbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:12px 0}.favbtn{border:1px solid #c7d2fe;background:#fff;border-radius:10px;padding:8px 10px;font:inherit;cursor:pointer}.favbtn.active{background:#eef2ff;font-weight:700}.linkbtn{border:0;background:transparent;color:#2563eb;padding:8px 0;font:inherit;font-weight:650;cursor:pointer;text-decoration:underline}.hidden{display:none!important}@media(min-width:700px){.auth-grid{grid-template-columns:1fr 1fr}.auth-grid .wide{grid-column:1/-1}}
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#f4f6f8;color:#111827}header{background:#111827;color:white;padding:18px}.wrap{max-width:900px;margin:auto;padding:16px}.card{background:white;border:1px solid #ddd;border-radius:14px;padding:14px;margin:12px 0}.btn,.btn2,.btn-pro{display:inline-block;border:0;border-radius:10px;padding:10px 12px;font:inherit;font-weight:650;cursor:pointer;text-decoration:none}.btn{background:#2563eb;color:white}.btn2{background:#eef2ff;color:#111827}.btn-pro{background:#111827;color:white;padding:13px 16px}.chip{display:inline-block;background:#eef2ff;padding:5px 8px;border-radius:20px;margin:4px;font-size:13px}.source-chip{display:inline-block;background:#ecfdf5;color:#065f46;padding:5px 8px;border-radius:20px;margin:3px;font-size:12px}input{width:100%;box-sizing:border-box;padding:12px;border:1px solid #ccc;border-radius:10px;font:inherit}h1{margin:0}.muted{color:#6b7280}.warn{background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:10px;margin-top:8px}.status{font-size:14px;margin:10px 0}.sources{background:white;border:1px solid #ddd;border-radius:12px;padding:10px;margin:10px 0}.pro{background:linear-gradient(135deg,#eef2ff,#fff);border:2px solid #111827;border-radius:16px;padding:16px;margin:16px 0}.pro h2{margin:0 0 8px}.price{font-size:30px;font-weight:800;margin:8px 0}.pro ul{padding-left:20px}.small{font-size:12px;color:#6b7280;margin-top:10px}.auth-grid{display:grid;grid-template-columns:1fr;gap:8px}.auth-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.badge-free{background:#e5e7eb}.badge-pro{background:#dcfce7;color:#166534}.favbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:12px 0}.favbtn{border:1px solid #c7d2fe;background:#fff;border-radius:10px;padding:8px 10px;font:inherit;cursor:pointer}.favbtn.active{background:#eef2ff;font-weight:700}.linkbtn{border:0;background:transparent;color:#2563eb;padding:8px 0;font:inherit;font-weight:650;cursor:pointer;text-decoration:underline}.filters{display:grid;grid-template-columns:1fr;gap:8px;margin:12px 0}.filters select,.filters input,.pro-tools select,.pro-tools input{width:100%;box-sizing:border-box;padding:10px;border:1px solid #ccc;border-radius:10px;font:inherit}.pro-tools{border:2px solid #c7d2fe}.pro-grid{display:grid;grid-template-columns:1fr;gap:10px}.summary{background:#f8fafc;border:1px solid #e5e7eb;border-radius:10px;padding:10px;margin:10px 0}.summary summary{cursor:pointer;font-weight:700}.alert-item{border-left:4px solid #2563eb;padding:8px 10px;margin:8px 0;background:#eff6ff;border-radius:6px}.reminder{border-left-color:#f59e0b;background:#fffbeb}.changed{border-left-color:#7c3aed;background:#f5f3ff}.danger{color:#b91c1c}.success{color:#166534}.hidden{display:none!important}@media(min-width:700px){.auth-grid{grid-template-columns:1fr 1fr}.auth-grid .wide{grid-column:1/-1}.filters{grid-template-columns:repeat(3,1fr)}.pro-grid{grid-template-columns:1fr 1fr}}
 </style>
 </head>
 <body>
@@ -56,13 +56,48 @@ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;bac
 <section class="pro" id="proSection">
   <h2>VM Contratos Pro</h2>
   <div class="price">$49.000 <span style="font-size:16px;font-weight:600">ARS / 1 mes</span></div>
-  <ul><li>Favoritos y filtro de oportunidades guardadas.</li><li>Seguimiento de oportunidades de Neuquén y Vaca Muerta.</li><li>Base para alertas, filtros avanzados y análisis de pliegos.</li></ul>
+  <ul><li>Alertas personalizadas dentro de la aplicación.</li><li>Filtros avanzados por rubro, organismo, zona, estado y fecha.</li><li>Favoritos sincronizados, seguimiento de cambios y recordatorios.</li><li>Resumen práctico de cada oportunidad con fechas clave.</li></ul>
   <div id="proPayBox"><button class="btn-pro" id="subscribeProBtn" type="button">Contratar Pro por Mercado Pago</button><div id="subscriptionMessage" class="status muted"></div><div class="small">Suscripción real de $49.000 ARS por mes. Mercado Pago mostrará el importe y pedirá tu confirmación antes de realizar el cobro.</div></div>
   <div id="proActiveBox" class="hidden"><strong>✓ Tu acceso Pro está activo.</strong></div>
 </section>
 
+<section class="card pro-tools hidden" id="proTools">
+  <h2 style="margin-top:0">Centro Pro</h2>
+  <div class="pro-grid">
+    <div>
+      <h3>Alertas personalizadas</h3>
+      <input id="alertKeywords" placeholder="Palabras clave separadas por coma">
+      <input id="alertRubros" placeholder="Rubros separados por coma" style="margin-top:8px">
+      <input id="alertZonas" placeholder="Zonas separadas por coma" style="margin-top:8px">
+      <input id="alertOrganismos" placeholder="Organismos separados por coma" style="margin-top:8px">
+      <label class="small">Avisar antes del cierre
+        <select id="alertDeadlineDays"><option value="1">1 día</option><option value="3">3 días</option><option value="7">7 días</option><option value="15">15 días</option></select>
+      </label>
+      <button class="btn" id="saveAlertsBtn" type="button" style="margin-top:10px">Guardar alertas</button>
+      <div id="alertSettingsMessage" class="status muted"></div>
+      <div class="small">Las alertas dentro de la aplicación ya están activas. El envío por email se habilitará al conectar el proveedor de correo.</div>
+    </div>
+    <div>
+      <h3>Novedades para vos</h3>
+      <div id="proAlerts" class="muted">Configurá tus intereses para recibir alertas.</div>
+      <h3>Próximos vencimientos</h3>
+      <div id="proReminders" class="muted">Guardá oportunidades para recibir recordatorios.</div>
+      <h3>Cambios detectados</h3>
+      <div id="proChanges" class="muted">Sin cambios pendientes.</div>
+    </div>
+  </div>
+</section>
+
 <input id="q" placeholder="Buscar limpieza, tecnología, energía, obras...">
-<div class="favbar"><label id="favFilterLabel" class="hidden"><input id="onlyFavs" type="checkbox" style="width:auto"> Mostrar solo favoritos Pro</label></div>
+<div class="filters hidden" id="advancedFilters">
+  <select id="filterRubro"><option value="">Todos los rubros</option></select>
+  <select id="filterOrganismo"><option value="">Todos los organismos</option></select>
+  <select id="filterZona"><option value="">Todas las zonas</option></select>
+  <select id="filterEstado"><option value="">Todos los estados</option></select>
+  <input id="filterFrom" type="date" aria-label="Apertura desde">
+  <input id="filterTo" type="date" aria-label="Apertura hasta">
+</div>
+<div class="favbar"><label id="favFilterLabel" class="hidden"><input id="onlyFavs" type="checkbox" style="width:auto"> Mostrar solo favoritos Pro</label><button class="btn2 hidden" id="clearFiltersBtn" type="button">Limpiar filtros</button></div>
 <div id="cards"></div>
 </main>
 
@@ -77,15 +112,30 @@ const sb=createClient(SUPABASE_URL,SUPABASE_KEY);
 let D=[];
 let currentUser=null;
 let currentProfile=null;
-let favorites=new Set();
+let favorites=new Map();
+let alertPrefs={email_enabled:false,rubros:[],zonas:[],organismos:[],keywords:[],deadline_days:3};
 let passwordRecovery=new URLSearchParams(location.hash.slice(1)).get('type')==='recovery';
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function fmt(d){if(!d)return'Consultar fuente';let x=new Date(d);return Number.isNaN(x.getTime())?esc(d):x.toLocaleString('es-AR')}
 function activePro(){if(!currentProfile||currentProfile.plan!=='pro')return false;if(!currentProfile.pro_expires_at)return true;return new Date(currentProfile.pro_expires_at)>new Date()}
-function favKey(){return currentUser?`vm_favs_${currentUser.id}`:'vm_favs_guest'}
-function loadFavs(){try{favorites=new Set(JSON.parse(localStorage.getItem(favKey())||'[]'))}catch{favorites=new Set()}}
-function saveFavs(){localStorage.setItem(favKey(),JSON.stringify([...favorites]))}
+function splitList(value){return value.split(',').map(x=>x.trim()).filter(Boolean)}
+function daysUntil(date){if(!date)return null;const d=new Date(date);if(Number.isNaN(d.getTime()))return null;return Math.ceil((d-Date.now())/86400000)}
+function snapshotChanged(o,s){if(!s)return false;return ['titulo','descripcion','estado','apertura','fuente','nota'].some(k=>String(o[k]??'')!==String(s[k]??''))}
+function matchesList(value,list){return !list?.length||list.some(x=>String(value??'').toLowerCase().includes(x.toLowerCase()))}
+function matchesAlert(o){const text=(o.titulo+' '+o.descripcion+' '+o.rubro+' '+o.organismo+' '+(o.zona||'')).toLowerCase();return matchesList(o.rubro,alertPrefs.rubros)&&matchesList(o.zona,alertPrefs.zonas)&&matchesList(o.organismo,alertPrefs.organismos)&&(!alertPrefs.keywords.length||alertPrefs.keywords.some(k=>text.includes(k.toLowerCase())))}
+function syncPreferenceInputs(){$('alertKeywords').value=alertPrefs.keywords.join(', ');$('alertRubros').value=alertPrefs.rubros.join(', ');$('alertZonas').value=alertPrefs.zonas.join(', ');$('alertOrganismos').value=alertPrefs.organismos.join(', ');$('alertDeadlineDays').value=String(alertPrefs.deadline_days||3)}
+async function loadProFeatures(){
+  favorites=new Map();alertPrefs={email_enabled:false,rubros:[],zonas:[],organismos:[],keywords:[],deadline_days:3};
+  if(!currentUser||!activePro())return;
+  const [favResult,prefResult]=await Promise.all([
+    sb.from('pro_favorites').select('opportunity_id,opportunity_snapshot,reminder_days,created_at,updated_at').eq('user_id',currentUser.id),
+    sb.from('pro_alert_preferences').select('email_enabled,rubros,zonas,organismos,keywords,deadline_days').eq('user_id',currentUser.id).maybeSingle()
+  ]);
+  if(!favResult.error)(favResult.data||[]).forEach(f=>favorites.set(f.opportunity_id,f));
+  if(!prefResult.error&&prefResult.data)alertPrefs={...alertPrefs,...prefResult.data};
+  syncPreferenceInputs();
+}
 function setAuthMessage(msg,bad=false){$('authMessage').textContent=msg||'';$('authMessage').style.color=bad?'#b91c1c':'#6b7280'}
 
 async function loadProfile(){currentProfile=null;if(!currentUser)return;const {data,error}=await sb.from('profiles').select('email,full_name,plan,pro_expires_at').eq('id',currentUser.id).maybeSingle();if(error){setAuthMessage('No se pudo leer tu plan. Volvé a intentar.',true);return}currentProfile=data}
@@ -94,19 +144,19 @@ function updateAccountUI(){
   $('resetPasswordBox').classList.toggle('hidden',!passwordRecovery);
   $('signedOutBox').classList.toggle('hidden',signed||passwordRecovery);
   $('signedInBox').classList.toggle('hidden',!signed||passwordRecovery);
-  if(passwordRecovery){$('proActiveBox').classList.add('hidden');$('proPayBox').classList.remove('hidden');$('favFilterLabel').classList.add('hidden');return}
-  if(!signed){$('proActiveBox').classList.add('hidden');$('proPayBox').classList.remove('hidden');$('favFilterLabel').classList.add('hidden');return}
+  if(passwordRecovery){$('proActiveBox').classList.add('hidden');$('proPayBox').classList.remove('hidden');$('favFilterLabel').classList.add('hidden');$('proTools').classList.add('hidden');$('advancedFilters').classList.add('hidden');$('clearFiltersBtn').classList.add('hidden');return}
+  if(!signed){$('proActiveBox').classList.add('hidden');$('proPayBox').classList.remove('hidden');$('favFilterLabel').classList.add('hidden');$('proTools').classList.add('hidden');$('advancedFilters').classList.add('hidden');$('clearFiltersBtn').classList.add('hidden');return}
   $('userEmail').textContent=currentUser.email||'';
   const pro=activePro();
   $('planBadge').textContent=pro?'Pro':'Gratis';
   $('planBadge').className=`chip ${pro?'badge-pro':'badge-free'}`;
-  if(pro){const until=currentProfile?.pro_expires_at?new Date(currentProfile.pro_expires_at).toLocaleDateString('es-AR'):'sin vencimiento registrado';$('planDetail').textContent=`Acceso Pro activo hasta ${until}.`;$('proActiveBox').classList.remove('hidden');$('proPayBox').classList.add('hidden');$('favFilterLabel').classList.remove('hidden')}else{$('planDetail').textContent='Tu cuenta está en el plan Gratis.';$('proActiveBox').classList.add('hidden');$('proPayBox').classList.remove('hidden');$('favFilterLabel').classList.add('hidden');$('onlyFavs').checked=false}
+  if(pro){const until=currentProfile?.pro_expires_at?new Date(currentProfile.pro_expires_at).toLocaleDateString('es-AR'):'sin vencimiento registrado';$('planDetail').textContent=`Acceso Pro activo hasta ${until}.`;$('proActiveBox').classList.remove('hidden');$('proPayBox').classList.add('hidden');$('favFilterLabel').classList.remove('hidden');$('proTools').classList.remove('hidden');$('advancedFilters').classList.remove('hidden');$('clearFiltersBtn').classList.remove('hidden')}else{$('planDetail').textContent='Tu cuenta está en el plan Gratis.';$('proActiveBox').classList.add('hidden');$('proPayBox').classList.remove('hidden');$('favFilterLabel').classList.add('hidden');$('proTools').classList.add('hidden');$('advancedFilters').classList.add('hidden');$('clearFiltersBtn').classList.add('hidden');$('onlyFavs').checked=false}
 }
 async function refreshAuth(){
   const {data:{session}}=await sb.auth.getSession();
   currentUser=session?.user||null;
-  if(currentUser){await loadProfile();loadFavs()}else{currentProfile=null;favorites=new Set()}
-  updateAccountUI();render();
+  if(currentUser){await loadProfile();await loadProFeatures()}else{currentProfile=null;favorites=new Map()}
+  updateAccountUI();render();renderProDashboard();
 }
 
 $('signupBtn').addEventListener('click',async()=>{
@@ -163,6 +213,13 @@ $('subscribeProBtn').addEventListener('click',async()=>{
   if(error||!data?.init_point){button.disabled=false;message.textContent='No se pudo abrir Mercado Pago. Volvé a intentar.';message.style.color='#b91c1c';return}
   location.href=data.init_point;
 });
+$('saveAlertsBtn').addEventListener('click',async()=>{
+  if(!currentUser||!activePro())return;
+  const next={user_id:currentUser.id,email_enabled:false,keywords:splitList($('alertKeywords').value),rubros:splitList($('alertRubros').value),zonas:splitList($('alertZonas').value),organismos:splitList($('alertOrganismos').value),deadline_days:Number($('alertDeadlineDays').value)||3,updated_at:new Date().toISOString()};
+  const {error}=await sb.from('pro_alert_preferences').upsert(next,{onConflict:'user_id'});
+  if(error){$('alertSettingsMessage').textContent='No se pudieron guardar las alertas.';$('alertSettingsMessage').className='status danger';return}
+  alertPrefs={...alertPrefs,...next};$('alertSettingsMessage').textContent='✓ Alertas y recordatorios guardados.';$('alertSettingsMessage').className='status success';render();renderProDashboard();
+});
 $('logoutBtn').addEventListener('click',async()=>{await sb.auth.signOut();setAuthMessage('Sesión cerrada.');await refreshAuth()});
 sb.auth.onAuthStateChange((event)=>{
   if(event==='PASSWORD_RECOVERY'){
@@ -173,16 +230,44 @@ sb.auth.onAuthStateChange((event)=>{
   setTimeout(refreshAuth,0);
 });
 
-function render(){
-  let q=$('q').value.toLowerCase();
-  let a=D.filter(o=>(o.titulo+' '+o.descripcion+' '+o.rubro+' '+o.organismo+' '+(o.zona||'')+' '+(o.canal||'')).toLowerCase().includes(q));
-  if(activePro()&&$('onlyFavs').checked)a=a.filter(o=>favorites.has(o.id));
-  $('cards').innerHTML=a.map(o=>`<article class="card"><h3>${esc(o.titulo)}</h3><div><span class="chip">${esc(o.organismo)}</span><span class="chip">${esc(o.rubro)}</span><span class="chip">${esc(o.zona||'Neuquén')}</span><span class="chip">${esc(o.estado)}</span>${o.canal?`<span class="chip">${esc(o.canal)}</span>`:''}</div><p>${esc(o.descripcion)}</p><p class="muted">Apertura: ${fmt(o.apertura)}</p>${o.nota?`<div class="warn">${esc(o.nota)}</div>`:''}<p><a class="btn" target="_blank" rel="noopener" href="${o.fuente}">Fuente oficial</a> <button class="favbtn ${favorites.has(o.id)?'active':''}" data-fav="${esc(o.id)}">${favorites.has(o.id)?'★ Guardada':'☆ Guardar'}</button></p></article>`).join('')||'<p>No hay resultados.</p>';
+function renderProDashboard(){
+  if(!activePro()){return}
+  const recent=D.filter(o=>{const p=new Date(o.publicado);return !Number.isNaN(p.getTime())&&((Date.now()-p.getTime())/86400000)<=14&&matchesAlert(o)}).slice(0,8);
+  $('proAlerts').innerHTML=recent.length?recent.map(o=>`<div class="alert-item"><strong>${esc(o.titulo)}</strong><div class="small">${esc(o.rubro)} · ${esc(o.zona||'Neuquén')}</div></div>`).join(''):'No hay novedades que coincidan con tus preferencias.';
+  const reminders=D.filter(o=>{const f=favorites.get(o.id),d=daysUntil(o.apertura);return f&&d!==null&&d>=0&&d<=(f.reminder_days||alertPrefs.deadline_days||3)}).sort((a,b)=>new Date(a.apertura)-new Date(b.apertura));
+  $('proReminders').innerHTML=reminders.length?reminders.map(o=>`<div class="alert-item reminder"><strong>${esc(o.titulo)}</strong><div class="small">Vence ${daysUntil(o.apertura)===0?'hoy':`en ${daysUntil(o.apertura)} día(s)`}</div></div>`).join(''):'No hay vencimientos próximos entre tus favoritos.';
+  const changes=D.filter(o=>{const f=favorites.get(o.id);return f&&snapshotChanged(o,f.opportunity_snapshot)});
+  $('proChanges').innerHTML=changes.length?changes.map(o=>`<div class="alert-item changed"><strong>${esc(o.titulo)}</strong><div class="small">La publicación cambió desde que la guardaste.</div></div>`).join(''):'Sin cambios pendientes.';
 }
-$('cards').addEventListener('click',e=>{const b=e.target.closest('[data-fav]');if(!b)return;if(!currentUser){setAuthMessage('Iniciá sesión para usar funciones Pro.',true);$('accountCard').scrollIntoView({behavior:'smooth'});return}if(!activePro()){document.getElementById('proSection').scrollIntoView({behavior:'smooth'});return}const id=b.dataset.fav;if(favorites.has(id))favorites.delete(id);else favorites.add(id);saveFavs();render()});
-$('q').addEventListener('input',render);$('onlyFavs').addEventListener('change',render);
+function populateFilters(){
+  const fill=(id,values,label)=>{const el=$(id),current=el.value;el.innerHTML=`<option value="">${label}</option>`+[...new Set(values.filter(Boolean))].sort((a,b)=>a.localeCompare(b,'es')).map(v=>`<option value="${esc(v)}">${esc(v)}</option>`).join('');el.value=current};
+  fill('filterRubro',D.map(o=>o.rubro),'Todos los rubros');fill('filterOrganismo',D.map(o=>o.organismo),'Todos los organismos');fill('filterZona',D.map(o=>o.zona),'Todas las zonas');fill('filterEstado',D.map(o=>o.estado),'Todos los estados');
+}
+function render(){
+  const q=$('q').value.toLowerCase();
+  let a=D.filter(o=>(o.titulo+' '+o.descripcion+' '+o.rubro+' '+o.organismo+' '+(o.zona||'')+' '+(o.canal||'')).toLowerCase().includes(q));
+  if(activePro()){
+    const rubro=$('filterRubro').value,organismo=$('filterOrganismo').value,zona=$('filterZona').value,estado=$('filterEstado').value,from=$('filterFrom').value,to=$('filterTo').value;
+    if(rubro)a=a.filter(o=>o.rubro===rubro);if(organismo)a=a.filter(o=>o.organismo===organismo);if(zona)a=a.filter(o=>o.zona===zona);if(estado)a=a.filter(o=>o.estado===estado);
+    if(from)a=a.filter(o=>o.apertura&&new Date(o.apertura)>=new Date(from+'T00:00:00'));if(to)a=a.filter(o=>o.apertura&&new Date(o.apertura)<=new Date(to+'T23:59:59'));
+    if($('onlyFavs').checked)a=a.filter(o=>favorites.has(o.id));
+  }
+  $('cards').innerHTML=a.map(o=>{const saved=favorites.has(o.id),changed=saved&&snapshotChanged(o,favorites.get(o.id).opportunity_snapshot),days=daysUntil(o.apertura);return `<article class="card"><h3>${esc(o.titulo)}</h3><div><span class="chip">${esc(o.organismo)}</span><span class="chip">${esc(o.rubro)}</span><span class="chip">${esc(o.zona||'Neuquén')}</span><span class="chip">${esc(o.estado)}</span>${o.canal?`<span class="chip">${esc(o.canal)}</span>`:''}</div><p>${esc(o.descripcion)}</p><p class="muted">Apertura: ${fmt(o.apertura)}${days!==null&&days>=0?` · ${days===0?'vence hoy':`faltan ${days} día(s)`}`:''}</p>${o.nota?`<div class="warn">${esc(o.nota)}</div>`:''}${activePro()?`<details class="summary"><summary>Resumen Pro</summary><p><strong>Qué se solicita:</strong> ${esc(o.descripcion)}</p><p><strong>Organismo:</strong> ${esc(o.organismo)} · <strong>Rubro:</strong> ${esc(o.rubro)} · <strong>Zona:</strong> ${esc(o.zona||'Neuquén')}</p><p><strong>Fecha clave:</strong> ${fmt(o.apertura)}</p><p class="small">Requisitos y documentación: revisá siempre la publicación oficial antes de presentar una oferta.</p></details>`:''}${changed?`<div class="alert-item changed">Esta oportunidad cambió. <button class="btn2" data-ack="${esc(o.id)}" type="button">Marcar como revisada</button></div>`:''}<p><a class="btn" target="_blank" rel="noopener" href="${esc(o.fuente)}">Fuente oficial</a> <button class="favbtn ${saved?'active':''}" data-fav="${esc(o.id)}">${saved?'★ Guardada':'☆ Guardar'}</button></p></article>`}).join('')||'<p>No hay resultados.</p>';
+}
+$('cards').addEventListener('click',async e=>{
+  const fav=e.target.closest('[data-fav]'),ack=e.target.closest('[data-ack]');
+  if(!fav&&!ack)return;
+  if(!currentUser){setAuthMessage('Iniciá sesión para usar funciones Pro.',true);$('accountCard').scrollIntoView({behavior:'smooth'});return}
+  if(!activePro()){document.getElementById('proSection').scrollIntoView({behavior:'smooth'});return}
+  const id=(fav||ack).dataset.fav||(fav||ack).dataset.ack,o=D.find(x=>x.id===id);if(!o)return;
+  if(ack){const existing=favorites.get(id);const row={user_id:currentUser.id,opportunity_id:id,opportunity_snapshot:o,reminder_days:existing?.reminder_days||alertPrefs.deadline_days||3,updated_at:new Date().toISOString()};const {error}=await sb.from('pro_favorites').upsert(row,{onConflict:'user_id,opportunity_id'});if(!error)favorites.set(id,{...existing,...row});render();renderProDashboard();return}
+  if(favorites.has(id)){const {error}=await sb.from('pro_favorites').delete().eq('user_id',currentUser.id).eq('opportunity_id',id);if(!error)favorites.delete(id)}
+  else{const row={user_id:currentUser.id,opportunity_id:id,opportunity_snapshot:o,reminder_days:alertPrefs.deadline_days||3,updated_at:new Date().toISOString()};const {error}=await sb.from('pro_favorites').upsert(row,{onConflict:'user_id,opportunity_id'});if(!error)favorites.set(id,row)}
+  render();renderProDashboard();
+});
+$('q').addEventListener('input',render);$('onlyFavs').addEventListener('change',render);['filterRubro','filterOrganismo','filterZona','filterEstado','filterFrom','filterTo'].forEach(id=>$(id).addEventListener('change',render));$('clearFiltersBtn').addEventListener('click',()=>{['filterRubro','filterOrganismo','filterZona','filterEstado','filterFrom','filterTo'].forEach(id=>$(id).value='');$('onlyFavs').checked=false;render()});
 
-fetch('data.json?'+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(x=>{D=x.opportunities||[];let u=x.updated?new Date(x.updated):null;$('status').textContent=`${D.length} oportunidades · ${x.source_count||Object.keys(x.sources||{}).length} fuentes · última actualización ${u&&!Number.isNaN(u.getTime())?u.toLocaleString('es-AR'):'reciente'}${x.automatic_update?` · automática cada ${x.update_frequency_hours||6} h`:''}`;$('sourcechips').innerHTML=Object.keys(x.sources||{}).map(s=>`<span class="source-chip">${esc(s)}</span>`).join('');render()}).catch(()=>{$('status').textContent='No se pudo comprobar la última actualización. Mostrando datos disponibles.';render()});
+fetch('data.json?'+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(x=>{D=x.opportunities||[];let u=x.updated?new Date(x.updated):null;$('status').textContent=`${D.length} oportunidades · ${x.source_count||Object.keys(x.sources||{}).length} fuentes · última actualización ${u&&!Number.isNaN(u.getTime())?u.toLocaleString('es-AR'):'reciente'}${x.automatic_update?` · automática cada ${x.update_frequency_hours||6} h`:''}`;$('sourcechips').innerHTML=Object.keys(x.sources||{}).map(s=>`<span class="source-chip">${esc(s)}</span>`).join('');populateFilters();render();renderProDashboard()}).catch(()=>{$('status').textContent='No se pudo comprobar la última actualización. Mostrando datos disponibles.';render()});
 
 await refreshAuth();
 if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js');
