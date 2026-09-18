@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T12:33:25+00:00",
+  "updated": "2026-09-18T18:30:25+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -89,6 +89,19 @@
       "fuente": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=1956"
     },
     {
+      "id": "SALUD-objeto-servicio-de-seguridad-para-el-control-de-accesos-circulacion-y-",
+      "organismo": "Ministerio de Salud / CO.DI.NEU.",
+      "titulo": "OBJETO: SERVICIO DE SEGURIDAD PARA EL CONTROL DE ACCESOS, CIRCULACIÓN Y ORIENTACIÓN AL PÚBLICO",
+      "rubro": "Servicios generales",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-09-28T11:00:00-03:00",
+      "publicado": null,
+      "descripcion": "SERVICIO DE SEGURIDAD PARA EL CONTROL DE ACCESOS, CIRCULACIÓN Y ORIENTACIÓN AL PÚBLICO - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 18 de septiembre de 2026 OBJETO: SERVICIO DE SEGURIDAD PARA EL CONTROL DE ACCESOS, CIRCULACIÓN Y ORIENTACIÓN AL PÚBLICO Licitación Pública – Doble Sobre Nº 18 Expediente Electrónico EX-2026-01882272- -NEU-DESP#MS DECTO-2026-1281-E-NEU-GPN",
+      "fuente": "https://salud.neuquen.gob.ar/objeto-servicio-de-seguridad-para-el-control-de-accesos-circulacion-y-orientacion-al-publico-19/",
+      "canal": "CO.DI.NEU."
+    },
+    {
       "id": "OBRAS-10-2026",
       "organismo": "Secretaría de Obras Públicas",
       "titulo": "Licitación Pública 10/2026 — Escuela 86: refacción, ampliación y SUM, San Martín de los Andes",
@@ -125,6 +138,19 @@
       "descripcion": "Servicio para hospitales y centros de salud de la Provincia del Neuquén.",
       "canal": "CO.DI.NEU.",
       "fuente": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=1959"
+    },
+    {
+      "id": "SALUD-objeto-servicio-de-limpieza-integral-parquizacion-y-camilleros",
+      "organismo": "Ministerio de Salud / CO.DI.NEU.",
+      "titulo": "OBJETO: SERVICIO DE LIMPIEZA INTEGRAL, PARQUIZACIÓN Y CAMILLEROS",
+      "rubro": "Servicios generales",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-09-30T11:00:00-03:00",
+      "publicado": null,
+      "descripcion": "SERVICIO DE LIMPIEZA INTEGRAL, PARQUIZACIÓN Y CAMILLEROS - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 18 de septiembre de 2026 OBJETO: SERVICIO DE LIMPIEZA INTEGRAL, PARQUIZACIÓN Y CAMILLEROS Licitación Pública – Doble Sobre Nº 1 9 Expediente Electrónico EX-2026-01977212- -NEU-DESP#MS DECTO-2026-1331-E-NEU-GPN",
+      "fuente": "https://salud.neuquen.gob.ar/objeto-servicio-de-limpieza-integral-parquizacion-y-camilleros/",
+      "canal": "CO.DI.NEU."
     },
     {
       "id": "UPEFE-LPN-01-2026",
