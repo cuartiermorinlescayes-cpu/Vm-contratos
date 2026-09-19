@@ -23,17 +23,19 @@ jobs:
       - name: Instalar dependencias
         run: pip install requests beautifulsoup4
 
-      - name: Actualizar datos
-        run: python scripts/update_opportunities.py
+      - name: Actualizar licitaciones y empleos YPF
+        run: |
+          python scripts/update_opportunities.py
+          python scripts/update_jobs.py
 
       - name: Guardar cambios
         run: |
-          if git diff --quiet -- data.json; then
+          if git diff --quiet -- data.json jobs.json; then
             echo "Sin cambios"
             exit 0
           fi
           git config user.name "vm-contratos-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          git commit -m "Actualizar oportunidades automáticamente"
+          git add data.json jobs.json
+          git commit -m "Actualizar oportunidades y empleos YPF automáticamente"
           git push
