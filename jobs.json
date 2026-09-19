@@ -1,26 +1,49 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-19",
+  "automatic_update": true,
+  "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
+  "source_url": "https://oportunidades.ypf.com/search/",
   "jobs": [
     {
+      "id": "YPF-121406",
+      "titulo": "Gestor Permisología",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "18 sept 2026",
+      "descripcion": "Vacante oficial de YPF para Gestor Permisología en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-PERMISOLOGIA-NEUQ-8300/1431506500/"
+    },
+    {
+      "id": "YPF-121413",
+      "titulo": "Coordinador Proyectos IISS",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "16 sept 2026",
+      "descripcion": "Vacante oficial de YPF para Coordinador Proyectos IISS en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-COORDINADOR-PROYECTOS-IISS-NEUQ-8300/1430793000/"
+    },
+    {
       "id": "YPF-121409",
-      "titulo": "Técnico de Almacén UP",
+      "titulo": "Técnico Almacen UP",
       "empresa": "YPF",
       "ubicacion": "Neuquén",
       "categoria": "Áreas corporativas",
-      "publicado": "16/09/2026",
-      "descripcion": "Búsqueda oficial de YPF para una posición técnica de almacén en Neuquén.",
-      "fuente": "https://oportunidades.ypf.com/job/"
+      "publicado": "16 sept 2026",
+      "descripcion": "Vacante oficial de YPF para Técnico Almacen UP en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-ALMACEN-UP-NEUQ-8305/1430732100/"
     },
     {
       "id": "YPF-120658",
-      "titulo": "Analista de Logística",
+      "titulo": "Analista Logística",
       "empresa": "YPF",
       "ubicacion": "Neuquén",
       "categoria": "Áreas corporativas",
-      "publicado": "15/09/2026",
-      "descripcion": "Búsqueda oficial de YPF para una posición de logística en Neuquén.",
-      "fuente": "https://oportunidades.ypf.com/job/"
+      "publicado": "15 sept 2026",
+      "descripcion": "Vacante oficial de YPF para Analista Logística en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-ANALISTA-LOGISTICA-NEUQ-8300/1418150300/"
     },
     {
       "id": "YPF-121379",
@@ -28,9 +51,29 @@
       "empresa": "YPF",
       "ubicacion": "Neuquén",
       "categoria": "Áreas corporativas",
-      "publicado": "14/09/2026",
-      "descripcion": "Búsqueda oficial de YPF para una posición de compras en Neuquén.",
-      "fuente": "https://oportunidades.ypf.com/job/"
+      "publicado": "14 sept 2026",
+      "descripcion": "Vacante oficial de YPF para Comprador en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-COMPRADOR-NEUQ-8300/1429785800/"
+    },
+    {
+      "id": "YPF-121217",
+      "titulo": "Ingeniero Procesos",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "10 sept 2026",
+      "descripcion": "Vacante oficial de YPF para Ingeniero Procesos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROCESOS-NEUQ-8305/1428507000/"
+    },
+    {
+      "id": "YPF-121224",
+      "titulo": "Ingeniero Reservorios",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "4 sept 2026",
+      "descripcion": "Vacante oficial de YPF para Ingeniero Reservorios en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-RESERVORIOS-NEUQ-8300/1427031200/"
     }
   ]
 }
