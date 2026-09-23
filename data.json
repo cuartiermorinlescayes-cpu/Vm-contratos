@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T12:34:40+00:00",
+  "updated": "2026-09-23T18:32:27+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -177,6 +177,18 @@
       "fuente": "https://www.epen.gov.ar/index.php/2026/09/10/licitacion-publica-n-o-31-2026-recambio-de-protecciones-para-set-andacollo-y-piedra-del-aguila/"
     },
     {
+      "id": "EPEN-26-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N° 26/2026 SEGUNDO LLAMADO «ALQUILER DE TRAILERS – GERENCIAS DE TRANSPORTE Y DISTRIBUCIÓN»",
+      "rubro": "Servicios generales",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-10-06T11:00:00-03:00",
+      "publicado": "2026-09-23",
+      "descripcion": "Las Gerencias de Transporte y Distribución del EPEN solicitan el alquiler de trailers destinados a distintos puntos de la provincia, con la finalidad de cubrir las necesidades edilicias del personal operativo, técnico y administrativo, ya sea por las readecuaciones de infraestructura que se están llevando a cabo actualmente, la necesidad de garantizar el control de acceso, seguridad e integridad física del personal y proporcionar a los agentes y usuarios de las distintas instalaciones, un espacio adecuado que cumpla con las normas básicas de Seguridad e Higiene establecidas por la empresa.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/09/23/licitacion-publica-n-26-2026-segundo-llamado-alquiler-de-trailers-gerencias-de-transporte-y-distribucion/"
+    },
+    {
       "id": "EPEN-32-2026",
       "organismo": "EPEN",
       "titulo": "LICITACIÓN PÚBLICA N° 32/2026 – ADQUISICIÓN GAS NATURAL – CENTRAL TÉRMICA VILLA LA ANGOSTURA",
@@ -199,6 +211,19 @@
       "publicado": "2026-09-15",
       "descripcion": "La Unidad de informática solicita la contratación del servicio de Actualización Integral y Migración Tecnológica del Sistema Oracle E-Business Suite Financials (SGA) a versión 12.2.x, Actualización de Base de Datos a versión 19c e Implementación del módulo de Inteligencia Visual Oracle Enterprise Command Centers (ECC) bajo la modalidad Llave en Mano.",
       "fuente": "https://www.epen.gov.ar/index.php/2026/09/15/licitacion-publica-n-30-2026-contratacion-serv-oracle-e-business/"
+    },
+    {
+      "id": "SALUD-586-2026",
+      "organismo": "Ministerio de Salud / CO.DI.NEU.",
+      "titulo": "Licitación Pública 586 — OBJETO: Adquisición de insumos del rubro Ortopedia y Traumatología",
+      "rubro": "Energía",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-10-13T10:00:00-03:00",
+      "publicado": null,
+      "descripcion": "Adquisición de insumos del rubro Ortopedia y Traumatología - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 23 de septiembre de 2026 OBJETO: Adquisición de insumos del rubro Ortopedia y Traumatología Sistema de Órdenes de compra Abiertas, reglado por el Decreto Nº 761/96 Licitación Pública Nº 586 Expediente Electrónico EX-2026-015829961- -NEU-DESP#MS DECTO -2026-1458-E-NEU-GPN",
+      "fuente": "https://salud.neuquen.gob.ar/objeto-adquisicion-de-insumos-del-rubro-ortopedia-y-traumatologia/",
+      "canal": "CO.DI.NEU."
     },
     {
       "id": "UPEFE-07-2026",
