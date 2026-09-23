@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T06:35:21+00:00",
+  "updated": "2026-09-23T12:34:40+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -175,6 +175,18 @@
       "publicado": "2026-09-10",
       "descripcion": "La Gerencia de Transporte solicita la sustitución de los relés de sobrecorriente para los set de Andacollo y Piedra del Aguila.",
       "fuente": "https://www.epen.gov.ar/index.php/2026/09/10/licitacion-publica-n-o-31-2026-recambio-de-protecciones-para-set-andacollo-y-piedra-del-aguila/"
+    },
+    {
+      "id": "EPEN-32-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N° 32/2026 – ADQUISICIÓN GAS NATURAL – CENTRAL TÉRMICA VILLA LA ANGOSTURA",
+      "rubro": "Energía",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-10-06T12:00:00-03:00",
+      "publicado": "2026-09-23",
+      "descripcion": "La Gerencia de Distribución solicita la contratación de gas natural destinado a la generación de energía eléctrica en la localidad de Villa La Angostura.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/09/23/licitacion-publica-n-32-2026-adquisicion-gas-natural-central-termica-villa-la-angostura/"
     },
     {
       "id": "EPEN-30-2026",
