@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T12:35:24+00:00",
+  "updated": "2026-09-24T18:33:02+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -24,18 +24,6 @@
       "descripcion": "Soporte preventivo y correctivo, adecuación técnica, licenciamiento y reequipamiento de networking para datacenters provinciales.",
       "canal": "CO.DI.NEU.",
       "fuente": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=1956"
-    },
-    {
-      "id": "EPEN-29-2026",
-      "organismo": "EPEN",
-      "titulo": "LICITACIÓN PÚBLICA N° 29/2026 «CONTRATACIÓN ANUAL SERVICIO DE LIMPIEZA»",
-      "rubro": "Servicios generales",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-09-24T11:00:00-03:00",
-      "publicado": "2026-09-14",
-      "descripcion": "El Área Servicios Generales solicita la contratación de un servicio de limpieza integral y su mantenimiento en las dependencias detalladas en las Especificaciones Técnicas Dicho servicio se prestará con la dotación mínima de personal y en los horarios descriptos en las Especificaciones Técnicas, e incluirá la provisión de todos los elementos y materiales de limpieza necesarios en las dependencias que así se determine, de acuerdo a lo estipulado en las Especificaciones Técnicas.",
-      "fuente": "https://www.epen.gov.ar/index.php/2026/09/14/licitacion-publica-n-29-2026-contratacion-anual-servicio-de-limpieza/"
     },
     {
       "id": "OPTIC-22-2026",
@@ -189,6 +177,18 @@
       "fuente": "https://www.epen.gov.ar/index.php/2026/09/23/licitacion-publica-n-32-2026-adquisicion-gas-natural-central-termica-villa-la-angostura/"
     },
     {
+      "id": "EPEN-33-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N° 33/2026 «ADQUISICIÓN DE TRANSFORMADOR DE 30 MVA 132/34,5/13,8 kV C/CONMUTADOR BAJO CARGA – ESTACIÓN TRANSFORMADORA CUTRAL CÓ»",
+      "rubro": "Obras",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-10-08T10:00:00-03:00",
+      "publicado": "2026-09-24",
+      "descripcion": "La Gerencia de Transporte solicita la adquisición de un transformador de 30 MVA 132/34,5/13,18 kV, destinado a la obra de ampliación de la capacidad de transformación vinculada a la conexión del proyecto Parque Solar Cutral Có II y al refuerzo del abastecimiento eléctrico local.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/09/24/licitacion-publica-n-33-2026-adquisicion-de-transformador-de-30-mva-132-345-138-kv-c-conmutador-bajo-carga-estacion-transformadora-cutral-co/"
+    },
+    {
       "id": "EPEN-30-2026",
       "organismo": "EPEN",
       "titulo": "LICITACIÓN PÚBLICA N° 30/2026 CONTRATACIÓN DEL SERVICIO DE ACTUALIZACIÓN Y MIGRACIÓN TECNOLÓGICA DE ORACLE E-BUSINESS SUITE (EBS) DEL SISTEMA DE GESTIÓN ADMINISTRATIVA (SGA)",
@@ -211,6 +211,19 @@
       "publicado": null,
       "descripcion": "Adquisición de insumos del rubro Ortopedia y Traumatología - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 23 de septiembre de 2026 OBJETO: Adquisición de insumos del rubro Ortopedia y Traumatología Sistema de Órdenes de compra Abiertas, reglado por el Decreto Nº 761/96 Licitación Pública Nº 586 Expediente Electrónico EX-2026-015829961- -NEU-DESP#MS DECTO -2026-1458-E-NEU-GPN",
       "fuente": "https://salud.neuquen.gob.ar/objeto-adquisicion-de-insumos-del-rubro-ortopedia-y-traumatologia/",
+      "canal": "CO.DI.NEU."
+    },
+    {
+      "id": "SALUD-587-2026",
+      "organismo": "Ministerio de Salud / CO.DI.NEU.",
+      "titulo": "Licitación Pública 587 — OBJETO: Adquisición de insumos para cirugía cardiovascular para adultos.",
+      "rubro": "Energía",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-10-14T10:00:00-03:00",
+      "publicado": null,
+      "descripcion": "Adquisición de insumos para cirugía cardiovascular para adultos. - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 24 de septiembre de 2026 OBJETO: Adquisición de insumos para cirugía cardiovascular para adultos. Licitación Pública Nº 587 Expediente Electrónico EX-2026-01763255- -NEU-DESP#MS DECTO-2026-1457-E-NEU-GPN",
+      "fuente": "https://salud.neuquen.gob.ar/objeto-adquisicion-de-insumos-para-cirugia-cardiovascular-para-adultos/",
       "canal": "CO.DI.NEU."
     },
     {
