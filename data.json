@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T18:32:27+00:00",
+  "updated": "2026-09-24T00:36:04+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -12,18 +12,6 @@
   },
   "source_count": 6,
   "opportunities": [
-    {
-      "id": "SMA-04-2026",
-      "organismo": "Municipalidad de San Martín de los Andes",
-      "titulo": "Licitación Pública 04/2026 — Recolección, transporte, tratamiento y disposición de residuos patógenos",
-      "rubro": "Ambiente",
-      "zona": "San Martín de los Andes",
-      "estado": "Abierta",
-      "apertura": "2026-09-23T10:00:00-03:00",
-      "publicado": "2026-09-11",
-      "descripcion": "Concesión del servicio de recolección, transporte, tratamiento y disposición final de residuos patógenos.",
-      "fuente": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=1956"
-    },
     {
       "id": "OPTIC-26-2026",
       "organismo": "Provincia del Neuquén / OPTIC",
