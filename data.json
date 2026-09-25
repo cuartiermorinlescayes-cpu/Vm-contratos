@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T18:33:02+00:00",
+  "updated": "2026-09-25T00:37:14+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -12,19 +12,6 @@
   },
   "source_count": 6,
   "opportunities": [
-    {
-      "id": "OPTIC-26-2026",
-      "organismo": "Provincia del Neuquén / OPTIC",
-      "titulo": "Licitación Pública 26/2026 — Soporte y reequipamiento de networking de datacenters provinciales",
-      "rubro": "Tecnología",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-09-24T10:00:00-03:00",
-      "publicado": "2026-09-11",
-      "descripcion": "Soporte preventivo y correctivo, adecuación técnica, licenciamiento y reequipamiento de networking para datacenters provinciales.",
-      "canal": "CO.DI.NEU.",
-      "fuente": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=1956"
-    },
     {
       "id": "OPTIC-22-2026",
       "organismo": "Provincia del Neuquén / OPTIC",
