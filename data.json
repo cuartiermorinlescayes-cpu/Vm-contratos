@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T18:31:03+00:00",
+  "updated": "2026-09-26T00:34:59+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -12,32 +12,6 @@
   },
   "source_count": 6,
   "opportunities": [
-    {
-      "id": "OPTIC-22-2026",
-      "organismo": "Provincia del Neuquén / OPTIC",
-      "titulo": "Licitación Pública 22/2026 — Solución integral de backup y almacenamiento NVMe",
-      "rubro": "Tecnología",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-09-25T10:00:00-03:00",
-      "publicado": "2026-09-11",
-      "descripcion": "Adquisición de solución integral de backup y almacenamiento de alta performance, con hardware, software, instalación, capacitación y soporte.",
-      "canal": "CO.DI.NEU.",
-      "fuente": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=1956"
-    },
-    {
-      "id": "EPAS-SAFIPRO-4202-2026",
-      "organismo": "EPAS / CO.DI.NEU.",
-      "titulo": "Solicitud de Provisión SAFIPRO 4202 — Equipamiento para la Planta de Saneamiento de San Martín de los Andes",
-      "rubro": "Agua y saneamiento",
-      "zona": "San Martín de los Andes",
-      "estado": "Abierta",
-      "apertura": "2026-09-25T10:00:00-03:00",
-      "publicado": "2026-09-15",
-      "descripcion": "Adquisición de equipamiento para la Planta de Saneamiento de San Martín de los Andes.",
-      "canal": "CO.DI.NEU.",
-      "fuente": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=1959"
-    },
     {
       "id": "SALUD-18-2026",
       "organismo": "Ministerio de Salud / CO.DI.NEU.",

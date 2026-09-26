@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
@@ -24,6 +24,16 @@
       "publicado": "25 sept 2026",
       "descripcion": "Vacante oficial de YPF para Gestor Servicios Industrias en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-SERVICIOS-INDUSTRIAS-NEUQ-8305/1433954100/"
+    },
+    {
+      "id": "YPF-121543",
+      "titulo": "Ingeniero Produccion",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "25 sept 2026",
+      "descripcion": "Vacante oficial de YPF para Ingeniero Produccion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PRODUCCION-NEUQ-8300/1434060900/"
     },
     {
       "id": "YPF-121305",
@@ -54,6 +64,16 @@
       "publicado": "16 sept 2026",
       "descripcion": "Vacante oficial de YPF para Coordinador Proyectos IISS en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-COORDINADOR-PROYECTOS-IISS-NEUQ-8300/1430793000/"
+    },
+    {
+      "id": "YPF-120658",
+      "titulo": "Analista Logística",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Áreas corporativas",
+      "publicado": "15 sept 2026",
+      "descripcion": "Vacante oficial de YPF para Analista Logística en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-ANALISTA-LOGISTICA-NEUQ-8300/1418150300/"
     },
     {
       "id": "YPF-121379",
