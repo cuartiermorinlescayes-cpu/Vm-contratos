@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T12:38:16+00:00",
+  "updated": "2026-09-28T18:35:30+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -126,18 +126,6 @@
       "fuente": "https://www.epen.gov.ar/index.php/2026/09/23/licitacion-publica-n-26-2026-segundo-llamado-alquiler-de-trailers-gerencias-de-transporte-y-distribucion/"
     },
     {
-      "id": "EPEN-32-2026",
-      "organismo": "EPEN",
-      "titulo": "LICITACIÓN PÚBLICA N° 32/2026 – ADQUISICIÓN GAS NATURAL – CENTRAL TÉRMICA VILLA LA ANGOSTURA",
-      "rubro": "Energía",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-10-06T12:00:00-03:00",
-      "publicado": "2026-09-23",
-      "descripcion": "La Gerencia de Distribución solicita la contratación de gas natural destinado a la generación de energía eléctrica en la localidad de Villa La Angostura.",
-      "fuente": "https://www.epen.gov.ar/index.php/2026/09/23/licitacion-publica-n-32-2026-adquisicion-gas-natural-central-termica-villa-la-angostura/"
-    },
-    {
       "id": "EPEN-33-2026",
       "organismo": "EPEN",
       "titulo": "LICITACIÓN PÚBLICA N° 33/2026 «ADQUISICIÓN DE TRANSFORMADOR DE 30 MVA 132/34,5/13,8 kV C/CONMUTADOR BAJO CARGA – ESTACIÓN TRANSFORMADORA CUTRAL CÓ»",
@@ -198,6 +186,18 @@
       "publicado": "2026-09-11",
       "descripcion": "Obra del Plan Neuquén Vive para un nuevo natatorio olímpico en Neuquén Capital.",
       "fuente": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=1956"
+    },
+    {
+      "id": "EPEN-32-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N° 32/2026 – ADQUISICIÓN GAS NATURAL – CENTRAL TÉRMICA VILLA LA ANGOSTURA",
+      "rubro": "Energía",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-10-20T11:00:00-03:00",
+      "publicado": "2026-09-23",
+      "descripcion": "La Gerencia de Distribución solicita la contratación de gas natural destinado a la generación de energía eléctrica en la localidad de Villa La Angostura.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/09/23/licitacion-publica-n-32-2026-adquisicion-gas-natural-central-termica-villa-la-angostura/"
     }
   ]
 }
