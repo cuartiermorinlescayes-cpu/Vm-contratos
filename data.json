@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T12:38:07+00:00",
+  "updated": "2026-09-29T18:35:52+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -100,18 +100,6 @@
       "fuente": "https://www.epen.gov.ar/index.php/2026/09/24/licitacion-publica-n-33-2026-adquisicion-de-transformador-de-30-mva-132-345-138-kv-c-conmutador-bajo-carga-estacion-transformadora-cutral-co/"
     },
     {
-      "id": "EPEN-30-2026",
-      "organismo": "EPEN",
-      "titulo": "LICITACIÓN PÚBLICA N° 30/2026 CONTRATACIÓN DEL SERVICIO DE ACTUALIZACIÓN Y MIGRACIÓN TECNOLÓGICA DE ORACLE E-BUSINESS SUITE (EBS) DEL SISTEMA DE GESTIÓN ADMINISTRATIVA (SGA)",
-      "rubro": "Tecnología",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-10-08T12:00:00-03:00",
-      "publicado": "2026-09-15",
-      "descripcion": "La Unidad de informática solicita la contratación del servicio de Actualización Integral y Migración Tecnológica del Sistema Oracle E-Business Suite Financials (SGA) a versión 12.2.x, Actualización de Base de Datos a versión 19c e Implementación del módulo de Inteligencia Visual Oracle Enterprise Command Centers (ECC) bajo la modalidad Llave en Mano.",
-      "fuente": "https://www.epen.gov.ar/index.php/2026/09/15/licitacion-publica-n-30-2026-contratacion-serv-oracle-e-business/"
-    },
-    {
       "id": "SALUD-586-2026",
       "organismo": "Ministerio de Salud / CO.DI.NEU.",
       "titulo": "Licitación Pública 586 — OBJETO: Adquisición de insumos del rubro Ortopedia y Traumatología",
@@ -148,6 +136,18 @@
       "publicado": "2026-09-11",
       "descripcion": "Obra del Plan Neuquén Vive para un nuevo natatorio olímpico en Neuquén Capital.",
       "fuente": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=1956"
+    },
+    {
+      "id": "EPEN-30-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N° 30/2026 CONTRATACIÓN DEL SERVICIO DE ACTUALIZACIÓN Y MIGRACIÓN TECNOLÓGICA DE ORACLE E-BUSINESS SUITE (EBS) DEL SISTEMA DE GESTIÓN ADMINISTRATIVA (SGA)",
+      "rubro": "Tecnología",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-10-20T10:00:00-03:00",
+      "publicado": "2026-09-15",
+      "descripcion": "La Unidad de informática solicita la contratación del servicio de Actualización Integral y Migración Tecnológica del Sistema Oracle E-Business Suite Financials (SGA) a versión 12.2.x, Actualización de Base de Datos a versión 19c e Implementación del módulo de Inteligencia Visual Oracle Enterprise Command Centers (ECC) bajo la modalidad Llave en Mano.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/09/15/licitacion-publica-n-30-2026-contratacion-serv-oracle-e-business/"
     },
     {
       "id": "EPEN-32-2026",
