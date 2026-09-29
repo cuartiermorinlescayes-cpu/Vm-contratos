@@ -1,10 +1,20 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
   "source_url": "https://oportunidades.ypf.com/search/",
   "jobs": [
+    {
+      "id": "YPF-121381",
+      "titulo": "Supervisor Sala De Control Energia",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "28 sept 2026",
+      "descripcion": "Vacante oficial de YPF para Supervisor Sala De Control Energia en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-SUPERVISOR-SALA-DE-CONTROL-ENERGIA-NEUQ-8300/1434511900/"
+    },
     {
       "id": "YPF-121485",
       "titulo": "Gestor Servicios Industrias",
