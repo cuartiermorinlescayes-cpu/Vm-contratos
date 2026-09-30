@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T12:41:19+00:00",
+  "updated": "2026-09-30T18:34:12+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -111,6 +111,18 @@
       "descripcion": "Adquisición de insumos del rubro Ortopedia y Traumatología - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 23 de septiembre de 2026 OBJETO: Adquisición de insumos del rubro Ortopedia y Traumatología Sistema de Órdenes de compra Abiertas, reglado por el Decreto Nº 761/96 Licitación Pública Nº 586 Expediente Electrónico EX-2026-015829961- -NEU-DESP#MS DECTO -2026-1458-E-NEU-GPN",
       "fuente": "https://salud.neuquen.gob.ar/objeto-adquisicion-de-insumos-del-rubro-ortopedia-y-traumatologia/",
       "canal": "CO.DI.NEU."
+    },
+    {
+      "id": "EPEN-34-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N.º 34/2026- «ADQUISICIÓN DE REACTORES- ET CENTENARIO OESTE»",
+      "rubro": "Energía",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-10-13T12:00:00-03:00",
+      "publicado": "2026-09-30",
+      "descripcion": "La Gerencia de Transporte solicita la adquisición de dos reactores de neutro para la Estación Transformadora de Centenario Oeste.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/09/30/licitacion-publica-n-o-34-2026-adquisicion-de-reactores-et-centenario-oeste/"
     },
     {
       "id": "SALUD-587-2026",
