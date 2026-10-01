@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T18:34:12+00:00",
+  "updated": "2026-10-01T00:41:20+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -12,57 +12,6 @@
   },
   "source_count": 6,
   "opportunities": [
-    {
-      "id": "POLICIA-79-2026",
-      "organismo": "Policía de la Provincia del Neuquén",
-      "titulo": "Licitación Pública 79/2026 — Racionamiento elaborado para unidades de detención de Zapala",
-      "rubro": "Alimentos",
-      "zona": "Zapala",
-      "estado": "Abierta",
-      "apertura": "2026-09-30T10:00:00-03:00",
-      "publicado": "2026-09-04",
-      "descripcion": "Adquisición de racionamiento elaborado para internos alojados en unidades de detención y comisaría de Zapala.",
-      "canal": "CO.DI.NEU.",
-      "fuente": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=1954"
-    },
-    {
-      "id": "SALUD-19-2026",
-      "organismo": "Ministerio de Salud / CO.DI.NEU.",
-      "titulo": "Licitación Pública 19/2026 — Servicio de limpieza integral, parquización y camilleros",
-      "rubro": "Servicios generales",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-09-30T11:00:00-03:00",
-      "publicado": "2026-09-15",
-      "descripcion": "Servicio para hospitales y centros de salud de la Provincia del Neuquén.",
-      "canal": "CO.DI.NEU.",
-      "fuente": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=1959"
-    },
-    {
-      "id": "SALUD-objeto-servicio-de-limpieza-integral-parquizacion-y-camilleros",
-      "organismo": "Ministerio de Salud / CO.DI.NEU.",
-      "titulo": "OBJETO: SERVICIO DE LIMPIEZA INTEGRAL, PARQUIZACIÓN Y CAMILLEROS",
-      "rubro": "Servicios generales",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-09-30T11:00:00-03:00",
-      "publicado": null,
-      "descripcion": "SERVICIO DE LIMPIEZA INTEGRAL, PARQUIZACIÓN Y CAMILLEROS - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 18 de septiembre de 2026 OBJETO: SERVICIO DE LIMPIEZA INTEGRAL, PARQUIZACIÓN Y CAMILLEROS Licitación Pública – Doble Sobre Nº 1 9 Expediente Electrónico EX-2026-01977212- -NEU-DESP#MS DECTO-2026-1331-E-NEU-GPN",
-      "fuente": "https://salud.neuquen.gob.ar/objeto-servicio-de-limpieza-integral-parquizacion-y-camilleros/",
-      "canal": "CO.DI.NEU."
-    },
-    {
-      "id": "UPEFE-LPN-01-2026",
-      "organismo": "UPEFE / Provincia del Neuquén",
-      "titulo": "Licitación Pública Nacional 01/2026 — Construcción de 10 viviendas e infraestructura en Neuquén Capital",
-      "rubro": "Obras",
-      "zona": "Neuquén Capital",
-      "estado": "Abierta",
-      "apertura": "2026-09-30T13:00:00-03:00",
-      "publicado": "2026-09-07",
-      "descripcion": "Construcción de diez viviendas, infraestructura y plan de reasentamiento para barrios Pacífica, Morro y Juvenil.",
-      "fuente": "https://www.boletinoficial.gov.ar/detalleAviso/tercera/2417086/20260907"
-    },
     {
       "id": "EPEN-31-2026",
       "organismo": "EPEN",
