@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T18:35:43+00:00",
+  "updated": "2026-10-03T00:37:30+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -12,45 +12,6 @@
   },
   "source_count": 6,
   "opportunities": [
-    {
-      "id": "SALUD-582-2026",
-      "organismo": "Ministerio de Salud / CO.DI.NEU.",
-      "titulo": "Licitación Pública 582 — OBJETO: ADQUISICIÓN DE UN EQUIPO DE MAMOGRAFÍA DIGITAL DIRECTO",
-      "rubro": "Salud",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-10-02T10:00:00-03:00",
-      "publicado": null,
-      "descripcion": "ADQUISICIÓN DE UN EQUIPO DE MAMOGRAFÍA DIGITAL DIRECTO - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 31 de julio de 2026 OBJETO: ADQUISICIÓN DE UN EQUIPO DE MAMOGRAFÍA DIGITAL DIRECTO Licitación Pública Nº 582 EX -2025-03315393- -NEU-DESP#MS DECTO -2026-1048-E-NEU-GPN",
-      "fuente": "https://salud.neuquen.gob.ar/objeto-adquisicion-de-un-equipo-de-mamografia-digital-directo/",
-      "canal": "CO.DI.NEU."
-    },
-    {
-      "id": "SALUD-584-2026",
-      "organismo": "Ministerio de Salud / CO.DI.NEU.",
-      "titulo": "Licitación Pública 584 — OBJETO: Adquisición de insumos del rubro NUTROTERÁPICOS, LECHE ENTERA EN POLVO FORTIFICADA.",
-      "rubro": "Salud",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-10-02T10:00:00-03:00",
-      "publicado": null,
-      "descripcion": "Adquisición de insumos del rubro NUTROTERÁPICOS, LECHE ENTERA EN POLVO FORTIFICADA. - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 14 de agosto de 2026 OBJETO: Adquisición de insumos del rubro NUTROTERÁPICOS, LECHE ENTERA EN POLVO FORTIFICADA. Licitación Pública Nº 584 EX -2026-00216344- -NEU-DESP#MS DECTO -2026-1170-E-NEU-GPN",
-      "fuente": "https://salud.neuquen.gob.ar/objeto-adquisicion-de-insumos-del-rubro-nutroterapicos-leche-entera-en-polvo-fortificada/",
-      "canal": "CO.DI.NEU."
-    },
-    {
-      "id": "SALUD-objeto-servicio-de-seguridad-para-el-control-de-accesos-circulacion-y-",
-      "organismo": "Ministerio de Salud / CO.DI.NEU.",
-      "titulo": "OBJETO: Servicio de seguridad para el control de accesos, circulación y orientación al público",
-      "rubro": "Servicios generales",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-10-02T10:00:00-03:00",
-      "publicado": null,
-      "descripcion": "Servicio de seguridad para el control de accesos, circulación y orientación al público - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 29 de septiembre de 2026 OBJETO: Servicio de seguridad para el control de accesos, circulación y orientación al público Licitación Pública – Doble Sobre Nº 18 EX- 2026-01882272- -NEU-DESP#MS DECTO- 2026-1281-E-NEU-GPN",
-      "fuente": "https://salud.neuquen.gob.ar/objeto-servicio-de-seguridad-para-el-control-de-accesos-circulacion-y-orientacion-al-publico-20/",
-      "canal": "CO.DI.NEU."
-    },
     {
       "id": "EPEN-31-2026",
       "organismo": "EPEN",

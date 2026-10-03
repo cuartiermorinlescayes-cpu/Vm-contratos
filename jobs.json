@@ -1,10 +1,20 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
   "source_url": "https://oportunidades.ypf.com/search/",
   "jobs": [
+    {
+      "id": "YPF-121646",
+      "titulo": "Consultor Atraccion Y Seleccion",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Áreas corporativas",
+      "publicado": "2 oct 2026",
+      "descripcion": "Vacante oficial de YPF para Consultor Atraccion Y Seleccion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-CONSULTOR-ATRACCION-Y-SELECCION-NEUQ-8300/1436367500/"
+    },
     {
       "id": "YPF-121537",
       "titulo": "Ingeniero Integridad Equipos Estaticos",
