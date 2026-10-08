@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
@@ -24,6 +24,16 @@
       "publicado": "7 oct 2026",
       "descripcion": "Vacante oficial de YPF para Ingeniero Reservorios en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-RESERVORIOS-NEUQ-8305/1437787800/"
+    },
+    {
+      "id": "YPF-120149",
+      "titulo": "Company Representative Workover",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "7 oct 2026",
+      "descripcion": "Vacante oficial de YPF para Company Representative Workover en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-COMPANY-REPRESENTATIVE-WORKOVER-NEUQ-8300/1437943600/"
     },
     {
       "id": "YPF-121532",
