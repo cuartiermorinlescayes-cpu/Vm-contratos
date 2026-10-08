@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T12:41:23+00:00",
+  "updated": "2026-10-08T18:37:14+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -12,18 +12,6 @@
   },
   "source_count": 6,
   "opportunities": [
-    {
-      "id": "EPEN-33-2026",
-      "organismo": "EPEN",
-      "titulo": "LICITACIÓN PÚBLICA N° 33/2026 «ADQUISICIÓN DE TRANSFORMADOR DE 30 MVA 132/34,5/13,8 kV C/CONMUTADOR BAJO CARGA – ESTACIÓN TRANSFORMADORA CUTRAL CÓ»",
-      "rubro": "Obras",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-10-08T10:00:00-03:00",
-      "publicado": "2026-09-24",
-      "descripcion": "La Gerencia de Transporte solicita la adquisición de un transformador de 30 MVA 132/34,5/13,18 kV, destinado a la obra de ampliación de la capacidad de transformación vinculada a la conexión del proyecto Parque Solar Cutral Có II y al refuerzo del abastecimiento eléctrico local.",
-      "fuente": "https://www.epen.gov.ar/index.php/2026/09/24/licitacion-publica-n-33-2026-adquisicion-de-transformador-de-30-mva-132-345-138-kv-c-conmutador-bajo-carga-estacion-transformadora-cutral-co/"
-    },
     {
       "id": "SALUD-586-2026",
       "organismo": "Ministerio de Salud / CO.DI.NEU.",
@@ -97,6 +85,18 @@
       "publicado": "2026-09-23",
       "descripcion": "La Gerencia de Distribución solicita la contratación de gas natural destinado a la generación de energía eléctrica en la localidad de Villa La Angostura.",
       "fuente": "https://www.epen.gov.ar/index.php/2026/09/23/licitacion-publica-n-32-2026-adquisicion-gas-natural-central-termica-villa-la-angostura/"
+    },
+    {
+      "id": "EPEN-35-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N.º 35/2026- CONTRATACIÓN DEL SERVICIO DE DETECCIÓN DE ALCOHOL Y DROGAS EN EL ÁMBITO LABORAL",
+      "rubro": "Otros",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-10-20T12:00:00-03:00",
+      "publicado": "2026-10-08",
+      "descripcion": "La Gerencia de Recursos Humanos solicita la contratación del servicio integral de testeos para detección de alcohol y drogas, destinados al personal del E.P.E.N.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/10/08/licitacion-publica-n-o-35-2026-contratacion-del-servicio-de-deteccion-de-alcohol-y-drogas-en-el-ambito-laboral/"
     }
   ]
 }
