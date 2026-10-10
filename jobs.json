@@ -1,10 +1,20 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
   "source_url": "https://oportunidades.ypf.com/search/",
   "jobs": [
+    {
+      "id": "YPF-121490",
+      "titulo": "Analista Ambiente",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Áreas corporativas",
+      "publicado": "9 oct 2026",
+      "descripcion": "Vacante oficial de YPF para Analista Ambiente en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-ANALISTA-AMBIENTE-NEUQ-8300/1438886000/"
+    },
     {
       "id": "YPF-120149",
       "titulo": "Company Representative Workover",
