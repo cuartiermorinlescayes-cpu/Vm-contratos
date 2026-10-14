@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T18:42:02+00:00",
+  "updated": "2026-10-14T00:57:45+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -12,19 +12,6 @@
   },
   "source_count": 6,
   "opportunities": [
-    {
-      "id": "SALUD-586-2026",
-      "organismo": "Ministerio de Salud / CO.DI.NEU.",
-      "titulo": "Licitación Pública 586 — OBJETO: Adquisición de insumos del rubro Ortopedia y Traumatología",
-      "rubro": "Energía",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-10-13T10:00:00-03:00",
-      "publicado": null,
-      "descripcion": "Adquisición de insumos del rubro Ortopedia y Traumatología - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 23 de septiembre de 2026 OBJETO: Adquisición de insumos del rubro Ortopedia y Traumatología Sistema de Órdenes de compra Abiertas, reglado por el Decreto Nº 761/96 Licitación Pública Nº 586 Expediente Electrónico EX-2026-015829961- -NEU-DESP#MS DECTO -2026-1458-E-NEU-GPN",
-      "fuente": "https://salud.neuquen.gob.ar/objeto-adquisicion-de-insumos-del-rubro-ortopedia-y-traumatologia/",
-      "canal": "CO.DI.NEU."
-    },
     {
       "id": "SALUD-587-2026",
       "organismo": "Ministerio de Salud / CO.DI.NEU.",
