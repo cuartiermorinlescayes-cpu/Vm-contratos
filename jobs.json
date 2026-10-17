@@ -1,20 +1,10 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
   "source_url": "https://oportunidades.ypf.com/search/",
   "jobs": [
-    {
-      "id": "YPF-121632",
-      "titulo": "Coordinador Logística",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "16 oct 2026",
-      "descripcion": "Vacante oficial de YPF para Coordinador Logística en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-COORDINADOR-LOGISTICA-NEUQ-8305/1440767500/"
-    },
     {
       "id": "YPF-120466",
       "titulo": "Técnico Seguridad",
@@ -24,6 +14,16 @@
       "publicado": "16 oct 2026",
       "descripcion": "Vacante oficial de YPF para Técnico Seguridad en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-SEGURIDAD-NEUQ-8300/1440834800/"
+    },
+    {
+      "id": "YPF-121632",
+      "titulo": "Coordinador Logística",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "16 oct 2026",
+      "descripcion": "Vacante oficial de YPF para Coordinador Logística en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-COORDINADOR-LOGISTICA-NEUQ-8305/1440767500/"
     },
     {
       "id": "YPF-121767",
@@ -56,14 +56,14 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-COMPANY-REPRESENTATIVE-PERFORACION-NEUQ-8305/1439812600/"
     },
     {
-      "id": "YPF-121490",
-      "titulo": "Analista Ambiente",
+      "id": "YPF-121677",
+      "titulo": "Ingeniero Reservorios",
       "empresa": "YPF",
       "ubicacion": "Neuquén",
-      "categoria": "Áreas corporativas",
-      "publicado": "9 oct 2026",
-      "descripcion": "Vacante oficial de YPF para Analista Ambiente en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-ANALISTA-AMBIENTE-NEUQ-8300/1438886000/"
+      "categoria": "Negocios",
+      "publicado": "7 oct 2026",
+      "descripcion": "Vacante oficial de YPF para Ingeniero Reservorios en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-RESERVORIOS-NEUQ-8305/1437787800/"
     },
     {
       "id": "YPF-121667",
@@ -76,16 +76,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-EJECUCION-DE-PROYECTOS-NEUQ-8300/1437714100/"
     },
     {
-      "id": "YPF-121677",
-      "titulo": "Ingeniero Reservorios",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "7 oct 2026",
-      "descripcion": "Vacante oficial de YPF para Ingeniero Reservorios en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-RESERVORIOS-NEUQ-8305/1437787800/"
-    },
-    {
       "id": "YPF-120848",
       "titulo": "Ingeniero Reservorios",
       "empresa": "YPF",
@@ -94,16 +84,6 @@
       "publicado": "3 oct 2026",
       "descripcion": "Vacante oficial de YPF para Ingeniero Reservorios en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-RESERVORIOS-NEUQ-8300/1422068300/"
-    },
-    {
-      "id": "YPF-121646",
-      "titulo": "Consultor Atraccion Y Seleccion",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Áreas corporativas",
-      "publicado": "2 oct 2026",
-      "descripcion": "Vacante oficial de YPF para Consultor Atraccion Y Seleccion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-CONSULTOR-ATRACCION-Y-SELECCION-NEUQ-8300/1436367500/"
     },
     {
       "id": "YPF-121543",
