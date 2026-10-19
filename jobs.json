@@ -6,6 +6,16 @@
   "source_url": "https://oportunidades.ypf.com/search/",
   "jobs": [
     {
+      "id": "YPF-121644",
+      "titulo": "Programador Transporte",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "19 oct 2026",
+      "descripcion": "Vacante oficial de YPF para Programador Transporte en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-PROGRAMADOR-TRANSPORTE-NEUQ-8300/1441416400/"
+    },
+    {
       "id": "YPF-120466",
       "titulo": "Técnico Seguridad",
       "empresa": "YPF",
@@ -104,6 +114,16 @@
       "publicado": "23 sept 2026",
       "descripcion": "Vacante oficial de YPF para Gestor Contratos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-CONTRATOS-NEUQ-8300/1433057800/"
+    },
+    {
+      "id": "YPF-121310",
+      "titulo": "Analista Administracion Contable",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Áreas corporativas",
+      "publicado": "10 sept 2026",
+      "descripcion": "Vacante oficial de YPF para Analista Administracion Contable en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-ANALISTA-ADMINISTRACION-CONTABLE-NEUQ-8300/1428412600/"
     }
   ]
 }
