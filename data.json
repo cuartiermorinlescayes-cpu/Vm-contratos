@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T11:41:12+00:00",
+  "updated": "2026-10-20T17:10:58+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -13,30 +13,6 @@
   "source_count": 6,
   "opportunities": [
     {
-      "id": "EPEN-30-2026",
-      "organismo": "EPEN",
-      "titulo": "LICITACIÓN PÚBLICA N° 30/2026 CONTRATACIÓN DEL SERVICIO DE ACTUALIZACIÓN Y MIGRACIÓN TECNOLÓGICA DE ORACLE E-BUSINESS SUITE (EBS) DEL SISTEMA DE GESTIÓN ADMINISTRATIVA (SGA)",
-      "rubro": "Tecnología",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-10-20T10:00:00-03:00",
-      "publicado": "2026-09-15",
-      "descripcion": "La Unidad de informática solicita la contratación del servicio de Actualización Integral y Migración Tecnológica del Sistema Oracle E-Business Suite Financials (SGA) a versión 12.2.x, Actualización de Base de Datos a versión 19c e Implementación del módulo de Inteligencia Visual Oracle Enterprise Command Centers (ECC) bajo la modalidad Llave en Mano.",
-      "fuente": "https://www.epen.gov.ar/index.php/2026/09/15/licitacion-publica-n-30-2026-contratacion-serv-oracle-e-business/"
-    },
-    {
-      "id": "EPEN-32-2026",
-      "organismo": "EPEN",
-      "titulo": "LICITACIÓN PÚBLICA N° 32/2026 – ADQUISICIÓN GAS NATURAL – CENTRAL TÉRMICA VILLA LA ANGOSTURA",
-      "rubro": "Energía",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-10-20T11:00:00-03:00",
-      "publicado": "2026-09-23",
-      "descripcion": "La Gerencia de Distribución solicita la contratación de gas natural destinado a la generación de energía eléctrica en la localidad de Villa La Angostura.",
-      "fuente": "https://www.epen.gov.ar/index.php/2026/09/23/licitacion-publica-n-32-2026-adquisicion-gas-natural-central-termica-villa-la-angostura/"
-    },
-    {
       "id": "EPEN-35-2026",
       "organismo": "EPEN",
       "titulo": "LICITACIÓN PÚBLICA N.º 35/2026- CONTRATACIÓN DEL SERVICIO DE DETECCIÓN DE ALCOHOL Y DROGAS EN EL ÁMBITO LABORAL",
@@ -47,6 +23,19 @@
       "publicado": "2026-10-08",
       "descripcion": "La Gerencia de Recursos Humanos solicita la contratación del servicio integral de testeos para detección de alcohol y drogas, destinados al personal del E.P.E.N.",
       "fuente": "https://www.epen.gov.ar/index.php/2026/10/08/licitacion-publica-n-o-35-2026-contratacion-del-servicio-de-deteccion-de-alcohol-y-drogas-en-el-ambito-laboral/"
+    },
+    {
+      "id": "SALUD-5-2026",
+      "organismo": "Ministerio de Salud / CO.DI.NEU.",
+      "titulo": "Licitación Pública 5 — OBJETO: adquisición e instalación de CUATRO (4) AUTOCLAVES AUTOMÁTICOS A VAPOR HORIZONTAL.",
+      "rubro": "Energía",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-11-17T11:00:00-03:00",
+      "publicado": null,
+      "descripcion": "adquisición e instalación de CUATRO (4) AUTOCLAVES AUTOMÁTICOS A VAPOR HORIZONTAL. - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 20 de octubre de 2026 OBJETO: adquisición e instalación de CUATRO (4) AUTOCLAVES AUTOMÁTICOS A VAPOR HORIZONTAL. Capacidad 150 litros, nuevos, sin uso y de última serie de fabricación. Licitación Pública Nº5 98 Expediente Electrónico EX-2025-00596684- -NEU-DESP#MS DECTO-2026-1673-E-NEU-GPN",
+      "fuente": "https://salud.neuquen.gob.ar/objeto-adquisicion-e-instalacion-de-cuatro-4-autoclaves-automaticos-a-vapor-horizontal/",
+      "canal": "CO.DI.NEU."
     }
   ]
 }
