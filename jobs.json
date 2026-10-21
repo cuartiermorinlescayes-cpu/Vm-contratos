@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
@@ -64,16 +64,6 @@
       "publicado": "14 oct 2026",
       "descripcion": "Vacante oficial de YPF para Ingeniero Proyectos IISS en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROYECTOS-IISS-NEUQ-8300/1440180100/"
-    },
-    {
-      "id": "YPF-121804",
-      "titulo": "Company Representative Perforacion",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "13 oct 2026",
-      "descripcion": "Vacante oficial de YPF para Company Representative Perforacion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-COMPANY-REPRESENTATIVE-PERFORACION-NEUQ-8305/1439812600/"
     },
     {
       "id": "YPF-121667",
