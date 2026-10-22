@@ -6,6 +6,16 @@
   "source_url": "https://oportunidades.ypf.com/search/",
   "jobs": [
     {
+      "id": "YPF-121305",
+      "titulo": "Gestor Contratos",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "22 oct 2026",
+      "descripcion": "Vacante oficial de YPF para Gestor Contratos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-CONTRATOS-NEUQ-8300/1433057800/"
+    },
+    {
       "id": "YPF-121877",
       "titulo": "Jefe Construcciones",
       "empresa": "YPF",
@@ -124,16 +134,6 @@
       "publicado": "25 sept 2026",
       "descripcion": "Vacante oficial de YPF para Ingeniero Produccion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PRODUCCION-NEUQ-8300/1434060900/"
-    },
-    {
-      "id": "YPF-121305",
-      "titulo": "Gestor Contratos",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "23 sept 2026",
-      "descripcion": "Vacante oficial de YPF para Gestor Contratos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-CONTRATOS-NEUQ-8300/1433057800/"
     }
   ]
 }
