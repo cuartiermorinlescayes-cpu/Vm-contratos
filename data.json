@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T04:53:31+00:00",
+  "updated": "2026-10-23T11:43:53+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -12,19 +12,6 @@
   },
   "source_count": 6,
   "opportunities": [
-    {
-      "id": "SALUD-5-2026",
-      "organismo": "Ministerio de Salud / CO.DI.NEU.",
-      "titulo": "Licitación Pública 5 — OBJETO: adquisición e instalación de CUATRO (4) AUTOCLAVES AUTOMÁTICOS A VAPOR HORIZONTAL.",
-      "rubro": "Energía",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-11-17T11:00:00-03:00",
-      "publicado": null,
-      "descripcion": "adquisición e instalación de CUATRO (4) AUTOCLAVES AUTOMÁTICOS A VAPOR HORIZONTAL. - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 20 de octubre de 2026 OBJETO: adquisición e instalación de CUATRO (4) AUTOCLAVES AUTOMÁTICOS A VAPOR HORIZONTAL. Capacidad 150 litros, nuevos, sin uso y de última serie de fabricación. Licitación Pública Nº5 98 Expediente Electrónico EX-2025-00596684- -NEU-DESP#MS DECTO-2026-1673-E-NEU-GPN",
-      "fuente": "https://salud.neuquen.gob.ar/objeto-adquisicion-e-instalacion-de-cuatro-4-autoclaves-automaticos-a-vapor-horizontal/",
-      "canal": "CO.DI.NEU."
-    },
     {
       "id": "EPEN-35-2026",
       "organismo": "EPEN",
