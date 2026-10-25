@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T16:25:32+00:00",
+  "updated": "2026-10-25T20:55:03+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -12,19 +12,6 @@
   },
   "source_count": 6,
   "opportunities": [
-    {
-      "id": "SALUD-5-2026",
-      "organismo": "Ministerio de Salud / CO.DI.NEU.",
-      "titulo": "Licitación Pública 5 — OBJETO: adquisición de insumos del rubro REACTIVOS DE LABORATORIO.",
-      "rubro": "Energía",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-11-12T10:00:00-03:00",
-      "publicado": null,
-      "descripcion": "adquisición de insumos del rubro REACTIVOS DE LABORATORIO. - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 23 de octubre de 2026 OBJETO: adquisición de insumos del rubro REACTIVOS DE LABORATORIO. Licitación Pública Nº5 90 Destin o: distintos Servicios Asistenciales de la Provincia dependientes del Ministerio de Salud Expediente Electrónico EX-2026-02230623- -NEU-DESP#MS DECTO-2026-1674-E-NEU-GPN",
-      "fuente": "https://salud.neuquen.gob.ar/objeto-adquisicion-de-insumos-del-rubro-reactivos-de-laboratorio-4/",
-      "canal": "CO.DI.NEU."
-    },
     {
       "id": "EPEN-35-2026",
       "organismo": "EPEN",
