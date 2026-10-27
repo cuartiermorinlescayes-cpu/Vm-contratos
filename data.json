@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T12:15:44+00:00",
+  "updated": "2026-10-27T18:04:42+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -24,6 +24,18 @@
       "descripcion": "adquisición de insumos del rubro REACTIVOS DE LABORATORIO - Ministerio de Salud de la Provincia del Neuquén Ir al contenido Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Institucional Autoridades Mapa regionalización Trámites y servicios Matriculaciones Fiscalización Recursos Humanos Licitaciones Bioética Bromatología Recupero Financiero Laboratorio Central Recursos para personal de salud Guías Formularios Manuales Epidemiología Fichas notificación Boletines Epidemiológicos Documentos Reportes semanales Eventos Priorizados Noticias Search Search 26 de octubre de 2026 OBJETO: adquisición de insumos del rubro REACTIVOS DE LABORATORIO Bajo la modalidad de préstamo por consumo, del equipamiento necesario para su procesamiento . Licitación Pública Nº5 92 Destin o: los laboratorios de la Red Provincial de Laboratorios, dependientes del Ministerio de Salud Expediente Electrónico EX-2026-02007210- -NEU-DESP#MS DECTO-2026-1700-E-NEU-GPN",
       "fuente": "https://salud.neuquen.gob.ar/objeto-adquisicion-de-insumos-del-rubro-reactivos-de-laboratorio-5/",
       "canal": "CO.DI.NEU."
+    },
+    {
+      "id": "EPEN-36-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N° 36/2026 «ADQUISICIÓN DE TRANSFORMADORES DE MEDICIÓN DE 132 KV»",
+      "rubro": "Energía",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-11-12T10:00:00-03:00",
+      "publicado": "2026-10-27",
+      "descripcion": "La Gerencia de Transporte solicita la adquisición de transformadores de corriente y de tensión de 132 kV, destinados a diez campos de Estaciones Transformadoras.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/10/27/licitacion-publica-n-36-2026-adquisicion-de-transformadores-de-medicion-de-132-kv/"
     },
     {
       "id": "EPEN-35-2026",
