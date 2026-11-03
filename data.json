@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T14:18:24+00:00",
+  "updated": "2026-11-03T23:26:27+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -23,6 +23,42 @@
       "publicado": "2026-10-27",
       "descripcion": "La Gerencia de Transporte solicita la adquisición de transformadores de corriente y de tensión de 132 kV, destinados a diez campos de Estaciones Transformadoras.",
       "fuente": "https://www.epen.gov.ar/index.php/2026/10/27/licitacion-publica-n-36-2026-adquisicion-de-transformadores-de-medicion-de-132-kv/"
+    },
+    {
+      "id": "EPEN-39-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N° 39/2026 CONTRATACIÓN ANUAL SERVICIO DE COCHERA 2026-2027",
+      "rubro": "Otros",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-11-12T11:00:00-03:00",
+      "publicado": "2026-11-03",
+      "descripcion": "La Gerencia de Administración, Recursos y Finanzas solicita la contratación del alquiler de una playa de estacionamiento que albergue una flota de 40 vehículos livianos oficiales del ENTE.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/11/03/licitacion-publica-n-39-2026-contratacion-anual-servicio-de-cochera-2026-2027/"
+    },
+    {
+      "id": "EPEN-37-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N° 37/2026 – ADQUISICIÓN DE DOS (2) SERVIDORES PARA RENOVACIÓN DEL CLÚSTER DE VIRTUALIZACIÓN",
+      "rubro": "Otros",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-11-17T10:00:00-03:00",
+      "publicado": "2026-11-03",
+      "descripcion": "La Gerencia General solicita la adquisición de dos (2) servidores para renovación del clúster de virtualización, necesarios para el funcionamiento cotidiano de la operatoria administrativa, comercial y técnica del organismo.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/11/03/licitacion-publica-n-37-2026-adquisicion-de-dos-2-servidores-para-renovacion-del-cluster-de-virtualizacion/"
+    },
+    {
+      "id": "EPEN-38-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N° 38/2026 ADQUISICIÓN DE MATERIALES PARA FUNCIONAMIENTO 2026 – RUBRO: CONDUCTORES",
+      "rubro": "Otros",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-11-17T11:00:00-03:00",
+      "publicado": "2026-11-03",
+      "descripcion": "La Gerencia de Distribución solicita la adquisición de conductores, contemplando las cuatro Unidades de Servicios Regional y la Unidad de Logística y Mantenimiento.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/11/03/licitacion-publica-n-38-2026-adquisicion-de-materiales-para-funcionamiento-2026-rubro-conductores/"
     },
     {
       "id": "EPEN-35-2026",
