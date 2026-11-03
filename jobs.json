@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
@@ -14,6 +14,26 @@
       "publicado": "2 nov 2026",
       "descripcion": "Vacante oficial de YPF para Analista Personas Y Cultura en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-ANALISTA-PERSONAS-Y-CULTURA-NEUQ-8300/1446766300/"
+    },
+    {
+      "id": "YPF-122018",
+      "titulo": "Técnico Medio Ambiente",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Áreas corporativas",
+      "publicado": "2 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Técnico Medio Ambiente en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-MEDIO-AMBIENTE-NEUQ-8319/1446794200/"
+    },
+    {
+      "id": "YPF-122113",
+      "titulo": "Company Representative Perforacion",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "2 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Company Representative Perforacion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-COMPANY-REPRESENTATIVE-PERFORACION-NEUQ-8300/1446927900/"
     },
     {
       "id": "YPF-120848",
