@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T06:50:43+00:00",
+  "updated": "2026-11-05T19:59:06+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -59,19 +59,6 @@
       "publicado": "2026-11-03",
       "descripcion": "La Gerencia de Distribución solicita la adquisición de conductores, contemplando las cuatro Unidades de Servicios Regional y la Unidad de Logística y Mantenimiento.",
       "fuente": "https://www.epen.gov.ar/index.php/2026/11/03/licitacion-publica-n-38-2026-adquisicion-de-materiales-para-funcionamiento-2026-rubro-conductores/"
-    },
-    {
-      "id": "EPEN-35-2026",
-      "organismo": "EPEN",
-      "titulo": "LICITACIÓN PÚBLICA N.º 35/2026- CONTRATACIÓN DEL SERVICIO DE DETECCIÓN DE ALCOHOL Y DROGAS EN EL ÁMBITO LABORAL",
-      "rubro": "Otros",
-      "zona": "Neuquén",
-      "estado": "Verificar fecha",
-      "apertura": null,
-      "publicado": "2026-10-08",
-      "descripcion": "La Gerencia de Recursos Humanos solicita la contratación del servicio integral de testeos para detección de alcohol y drogas, destinados al personal del E.P.E.N.",
-      "fuente": "https://www.epen.gov.ar/index.php/2026/10/08/licitacion-publica-n-o-35-2026-contratacion-del-servicio-de-deteccion-de-alcohol-y-drogas-en-el-ambito-laboral/",
-      "nota": "La fecha de apertura publicada ya pasó o puede haber sido modificada. Verificar la fuente oficial antes de ofertar."
     }
   ]
 }
