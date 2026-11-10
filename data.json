@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T07:21:44+00:00",
+  "updated": "2026-11-10T19:46:10+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -59,6 +59,18 @@
       "publicado": "2026-11-03",
       "descripcion": "La Gerencia de Distribución solicita la adquisición de conductores, contemplando las cuatro Unidades de Servicios Regional y la Unidad de Logística y Mantenimiento.",
       "fuente": "https://www.epen.gov.ar/index.php/2026/11/03/licitacion-publica-n-38-2026-adquisicion-de-materiales-para-funcionamiento-2026-rubro-conductores/"
+    },
+    {
+      "id": "EPEN-40-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N° 40/2026 ADQUISICIÓN DE 5 INTERRUPTORES EN 132KV – ET CENTENARIO OESTE",
+      "rubro": "Obras",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-11-19T11:00:00-03:00",
+      "publicado": "2026-11-10",
+      "descripcion": "La Gerencia de Transporte solicita la adquisición de cinco (5) interruptores en 132 kV, en el marco de la ejecución de la obra “ET CENTENARIO OESTE 132/33/13,2 Kv”.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/11/10/licitacion-publica-n-40-2026-adquisicion-de-5-interruptores-en-132kv-et-centenario-oeste/"
     }
   ]
 }
