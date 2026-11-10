@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
@@ -16,16 +16,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-RESERVORIOS-NEUQ-8305/1437787800/"
     },
     {
-      "id": "YPF-122200",
-      "titulo": "Técnico Seguimiento De Contratos",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "5 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Técnico Seguimiento De Contratos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-SEGUIMIENTO-DE-CONTRATOS-NEUQ-8300/1448253800/"
-    },
-    {
       "id": "YPF-122195",
       "titulo": "Supervisor Energia",
       "empresa": "YPF",
@@ -36,6 +26,16 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-SUPERVISOR-ENERGIA-NEUQ-8300/1448268500/"
     },
     {
+      "id": "YPF-122200",
+      "titulo": "Técnico Seguimiento De Contratos",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "5 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Técnico Seguimiento De Contratos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-SEGUIMIENTO-DE-CONTRATOS-NEUQ-8300/1448253800/"
+    },
+    {
       "id": "YPF-122094",
       "titulo": "Ingeniero Programacion",
       "empresa": "YPF",
@@ -44,36 +44,6 @@
       "publicado": "4 nov 2026",
       "descripcion": "Vacante oficial de YPF para Ingeniero Programacion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROGRAMACION-NEUQ-8300/1447759200/"
-    },
-    {
-      "id": "YPF-122041",
-      "titulo": "Analista Personas Y Cultura",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Áreas corporativas",
-      "publicado": "2 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Analista Personas Y Cultura en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-ANALISTA-PERSONAS-Y-CULTURA-NEUQ-8300/1446766300/"
-    },
-    {
-      "id": "YPF-122113",
-      "titulo": "Company Representative Perforacion",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "2 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Company Representative Perforacion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-COMPANY-REPRESENTATIVE-PERFORACION-NEUQ-8300/1446927900/"
-    },
-    {
-      "id": "YPF-122018",
-      "titulo": "Técnico Medio Ambiente",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Áreas corporativas",
-      "publicado": "2 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Técnico Medio Ambiente en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-MEDIO-AMBIENTE-NEUQ-8319/1446794200/"
     },
     {
       "id": "YPF-120848",
@@ -96,16 +66,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-RECURSOS-HIDRICOS-NEUQ-8300/1446287400/"
     },
     {
-      "id": "YPF-121964",
-      "titulo": "Gestor Produccion Real Time",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "26 oct 2026",
-      "descripcion": "Vacante oficial de YPF para Gestor Produccion Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-PRODUCCION-REAL-TIME-NEUQ-8300/1443753000/"
-    },
-    {
       "id": "YPF-121632",
       "titulo": "Coordinador Logística",
       "empresa": "YPF",
@@ -116,16 +76,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-COORDINADOR-LOGISTICA-NEUQ-8305/1440767500/"
     },
     {
-      "id": "YPF-121775",
-      "titulo": "Ingeniero Proyectos IISS",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "14 oct 2026",
-      "descripcion": "Vacante oficial de YPF para Ingeniero Proyectos IISS en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROYECTOS-IISS-NEUQ-8300/1440180100/"
-    },
-    {
       "id": "YPF-121767",
       "titulo": "Ingeniero Proyecto",
       "empresa": "YPF",
@@ -134,6 +84,16 @@
       "publicado": "14 oct 2026",
       "descripcion": "Vacante oficial de YPF para Ingeniero Proyecto en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROYECTO-NEUQ-8318/1440168700/"
+    },
+    {
+      "id": "YPF-121775",
+      "titulo": "Ingeniero Proyectos IISS",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "14 oct 2026",
+      "descripcion": "Vacante oficial de YPF para Ingeniero Proyectos IISS en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROYECTOS-IISS-NEUQ-8300/1440180100/"
     }
   ]
 }
