@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
@@ -16,16 +16,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-PROGRAMADOR-PyWO-NEUQ-8305/1449794300/"
     },
     {
-      "id": "YPF-121992",
-      "titulo": "Gestor Ejecucion De Proyectos",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "11 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Gestor Ejecucion De Proyectos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-EJECUCION-DE-PROYECTOS-NEUQ-8300/1449895900/"
-    },
-    {
       "id": "YPF-122085",
       "titulo": "Ingeniero Estimulacion",
       "empresa": "YPF",
@@ -36,14 +26,14 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-ESTIMULACION-NEUQ-8300/1449919000/"
     },
     {
-      "id": "YPF-122190",
-      "titulo": "Jefe Sala Real Time",
+      "id": "YPF-121992",
+      "titulo": "Gestor Ejecucion De Proyectos",
       "empresa": "YPF",
       "ubicacion": "Neuquén",
       "categoria": "Negocios",
-      "publicado": "10 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Jefe Sala Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-SALA-REAL-TIME-NEUQ-8300/1449453400/"
+      "publicado": "11 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Gestor Ejecucion De Proyectos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-EJECUCION-DE-PROYECTOS-NEUQ-8300/1449895900/"
     },
     {
       "id": "YPF-122193",
@@ -54,6 +44,16 @@
       "publicado": "10 nov 2026",
       "descripcion": "Vacante oficial de YPF para Jefe Sala Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-SALA-REAL-TIME-NEUQ-8300/1449458900/"
+    },
+    {
+      "id": "YPF-122190",
+      "titulo": "Jefe Sala Real Time",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "10 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Jefe Sala Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-SALA-REAL-TIME-NEUQ-8300/1449453400/"
     },
     {
       "id": "YPF-121677",
@@ -84,16 +84,6 @@
       "publicado": "5 nov 2026",
       "descripcion": "Vacante oficial de YPF para Técnico Seguimiento De Contratos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-SEGUIMIENTO-DE-CONTRATOS-NEUQ-8300/1448253800/"
-    },
-    {
-      "id": "YPF-122094",
-      "titulo": "Ingeniero Programacion",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "4 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Ingeniero Programacion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROGRAMACION-NEUQ-8300/1447759200/"
     },
     {
       "id": "YPF-122113",
@@ -146,16 +136,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-SUPERVISOR-DE-ARENA-NEUQ-8305/1444298400/"
     },
     {
-      "id": "YPF-121632",
-      "titulo": "Coordinador Logística",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "16 oct 2026",
-      "descripcion": "Vacante oficial de YPF para Coordinador Logística en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-COORDINADOR-LOGISTICA-NEUQ-8305/1440767500/"
-    },
-    {
       "id": "YPF-121767",
       "titulo": "Ingeniero Proyecto",
       "empresa": "YPF",
@@ -164,16 +144,6 @@
       "publicado": "14 oct 2026",
       "descripcion": "Vacante oficial de YPF para Ingeniero Proyecto en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROYECTO-NEUQ-8318/1440168700/"
-    },
-    {
-      "id": "YPF-121775",
-      "titulo": "Ingeniero Proyectos IISS",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "14 oct 2026",
-      "descripcion": "Vacante oficial de YPF para Ingeniero Proyectos IISS en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROYECTOS-IISS-NEUQ-8300/1440180100/"
     }
   ]
 }
