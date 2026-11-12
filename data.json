@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T07:14:50+00:00",
+  "updated": "2026-11-12T19:56:39+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -12,30 +12,6 @@
   },
   "source_count": 6,
   "opportunities": [
-    {
-      "id": "EPEN-36-2026",
-      "organismo": "EPEN",
-      "titulo": "LICITACIÓN PÚBLICA N° 36/2026 «ADQUISICIÓN DE TRANSFORMADORES DE MEDICIÓN DE 132 KV»",
-      "rubro": "Energía",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-11-12T10:00:00-03:00",
-      "publicado": "2026-10-27",
-      "descripcion": "La Gerencia de Transporte solicita la adquisición de transformadores de corriente y de tensión de 132 kV, destinados a diez campos de Estaciones Transformadoras.",
-      "fuente": "https://www.epen.gov.ar/index.php/2026/10/27/licitacion-publica-n-36-2026-adquisicion-de-transformadores-de-medicion-de-132-kv/"
-    },
-    {
-      "id": "EPEN-39-2026",
-      "organismo": "EPEN",
-      "titulo": "LICITACIÓN PÚBLICA N° 39/2026 CONTRATACIÓN ANUAL SERVICIO DE COCHERA 2026-2027",
-      "rubro": "Otros",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-11-12T11:00:00-03:00",
-      "publicado": "2026-11-03",
-      "descripcion": "La Gerencia de Administración, Recursos y Finanzas solicita la contratación del alquiler de una playa de estacionamiento que albergue una flota de 40 vehículos livianos oficiales del ENTE.",
-      "fuente": "https://www.epen.gov.ar/index.php/2026/11/03/licitacion-publica-n-39-2026-contratacion-anual-servicio-de-cochera-2026-2027/"
-    },
     {
       "id": "EPEN-37-2026",
       "organismo": "EPEN",

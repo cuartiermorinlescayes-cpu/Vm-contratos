@@ -6,6 +6,26 @@
   "source_url": "https://oportunidades.ypf.com/search/",
   "jobs": [
     {
+      "id": "YPF-121767",
+      "titulo": "Ingeniero Proyecto",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "12 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Ingeniero Proyecto en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROYECTO-NEUQ-8318/1440168700/"
+    },
+    {
+      "id": "YPF-122198",
+      "titulo": "Gestor Contratos",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "12 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Gestor Contratos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-CONTRATOS-NEUQ-8300/1450168200/"
+    },
+    {
       "id": "YPF-121872",
       "titulo": "Programador Pywo",
       "empresa": "YPF",
@@ -136,14 +156,14 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-SUPERVISOR-DE-ARENA-NEUQ-8305/1444298400/"
     },
     {
-      "id": "YPF-121767",
-      "titulo": "Ingeniero Proyecto",
+      "id": "YPF-121989",
+      "titulo": "Gestor Sala De Control",
       "empresa": "YPF",
       "ubicacion": "Neuquén",
       "categoria": "Negocios",
-      "publicado": "14 oct 2026",
-      "descripcion": "Vacante oficial de YPF para Ingeniero Proyecto en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROYECTO-NEUQ-8318/1440168700/"
+      "publicado": "26 oct 2026",
+      "descripcion": "Vacante oficial de YPF para Gestor Sala De Control en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-SALA-DE-CONTROL-NEUQ-8300/1443554000/"
     }
   ]
 }
