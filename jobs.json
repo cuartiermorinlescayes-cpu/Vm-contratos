@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
@@ -46,16 +46,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-ESTIMULACION-NEUQ-8300/1449919000/"
     },
     {
-      "id": "YPF-121992",
-      "titulo": "Gestor Ejecucion De Proyectos",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "11 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Gestor Ejecucion De Proyectos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-EJECUCION-DE-PROYECTOS-NEUQ-8300/1449895900/"
-    },
-    {
       "id": "YPF-121872",
       "titulo": "Programador Pywo",
       "empresa": "YPF",
@@ -66,14 +56,14 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-PROGRAMADOR-PyWO-NEUQ-8305/1449794300/"
     },
     {
-      "id": "YPF-122190",
-      "titulo": "Jefe Sala Real Time",
+      "id": "YPF-121992",
+      "titulo": "Gestor Ejecucion De Proyectos",
       "empresa": "YPF",
       "ubicacion": "Neuquén",
       "categoria": "Negocios",
-      "publicado": "10 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Jefe Sala Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-SALA-REAL-TIME-NEUQ-8300/1449453400/"
+      "publicado": "11 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Gestor Ejecucion De Proyectos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-EJECUCION-DE-PROYECTOS-NEUQ-8300/1449895900/"
     },
     {
       "id": "YPF-122193",
@@ -84,6 +74,16 @@
       "publicado": "10 nov 2026",
       "descripcion": "Vacante oficial de YPF para Jefe Sala Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-SALA-REAL-TIME-NEUQ-8300/1449458900/"
+    },
+    {
+      "id": "YPF-122190",
+      "titulo": "Jefe Sala Real Time",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "10 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Jefe Sala Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-SALA-REAL-TIME-NEUQ-8300/1449453400/"
     },
     {
       "id": "YPF-121677",
