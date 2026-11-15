@@ -6,16 +6,6 @@
   "source_url": "https://oportunidades.ypf.com/search/",
   "jobs": [
     {
-      "id": "YPF-122274",
-      "titulo": "Ingeniero Produccion",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "13 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Ingeniero Produccion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PRODUCCION-NEUQ-8300/1450683700/"
-    },
-    {
       "id": "YPF-122263",
       "titulo": "Ingeniero Produccion",
       "empresa": "YPF",
@@ -24,6 +14,16 @@
       "publicado": "13 nov 2026",
       "descripcion": "Vacante oficial de YPF para Ingeniero Produccion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PRODUCCION-NEUQ-8305/1450678200/"
+    },
+    {
+      "id": "YPF-122274",
+      "titulo": "Ingeniero Produccion",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "13 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Ingeniero Produccion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PRODUCCION-NEUQ-8300/1450683700/"
     },
     {
       "id": "YPF-122198",
@@ -36,16 +36,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-CONTRATOS-NEUQ-8300/1450168200/"
     },
     {
-      "id": "YPF-122085",
-      "titulo": "Ingeniero Estimulacion",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "11 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Ingeniero Estimulacion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-ESTIMULACION-NEUQ-8300/1449919000/"
-    },
-    {
       "id": "YPF-121872",
       "titulo": "Programador Pywo",
       "empresa": "YPF",
@@ -54,6 +44,16 @@
       "publicado": "11 nov 2026",
       "descripcion": "Vacante oficial de YPF para Programador Pywo en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-PROGRAMADOR-PyWO-NEUQ-8305/1449794300/"
+    },
+    {
+      "id": "YPF-122085",
+      "titulo": "Ingeniero Estimulacion",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "11 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Ingeniero Estimulacion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-ESTIMULACION-NEUQ-8300/1449919000/"
     },
     {
       "id": "YPF-121992",
