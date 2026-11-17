@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
@@ -26,16 +26,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-OPERACIONES-PULLING-REAL-TIME-NEUQ-8300/1450935200/"
     },
     {
-      "id": "YPF-122301",
-      "titulo": "Gestor Integridad Y Mantenimiento Real Time",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "16 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Gestor Integridad Y Mantenimiento Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-INTEGRIDAD-Y-MANTENIMIENTO-REAL-TIME-NEUQ-8300/1451029800/"
-    },
-    {
       "id": "YPF-122300",
       "titulo": "Programador",
       "empresa": "YPF",
@@ -44,6 +34,16 @@
       "publicado": "16 nov 2026",
       "descripcion": "Vacante oficial de YPF para Programador en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-PROGRAMADOR-NEUQ-8300/1451051200/"
+    },
+    {
+      "id": "YPF-122301",
+      "titulo": "Gestor Integridad Y Mantenimiento Real Time",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "16 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Gestor Integridad Y Mantenimiento Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-INTEGRIDAD-Y-MANTENIMIENTO-REAL-TIME-NEUQ-8300/1451029800/"
     },
     {
       "id": "YPF-122263",
@@ -146,16 +146,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROGRAMACION-NEUQ-8300/1447759200/"
     },
     {
-      "id": "YPF-122018",
-      "titulo": "Técnico Medio Ambiente",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Áreas corporativas",
-      "publicado": "2 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Técnico Medio Ambiente en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-MEDIO-AMBIENTE-NEUQ-8319/1446794200/"
-    },
-    {
       "id": "YPF-122113",
       "titulo": "Company Representative Perforacion",
       "empresa": "YPF",
@@ -164,6 +154,16 @@
       "publicado": "2 nov 2026",
       "descripcion": "Vacante oficial de YPF para Company Representative Perforacion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-COMPANY-REPRESENTATIVE-PERFORACION-NEUQ-8300/1446927900/"
+    },
+    {
+      "id": "YPF-122018",
+      "titulo": "Técnico Medio Ambiente",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Áreas corporativas",
+      "publicado": "2 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Técnico Medio Ambiente en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-MEDIO-AMBIENTE-NEUQ-8319/1446794200/"
     },
     {
       "id": "YPF-120848",
