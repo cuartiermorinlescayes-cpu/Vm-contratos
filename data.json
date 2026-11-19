@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T07:29:21+00:00",
+  "updated": "2026-11-19T20:40:01+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -13,18 +13,6 @@
   "source_count": 6,
   "opportunities": [
     {
-      "id": "EPEN-40-2026",
-      "organismo": "EPEN",
-      "titulo": "LICITACIÓN PÚBLICA N° 40/2026 ADQUISICIÓN DE 5 INTERRUPTORES EN 132KV – ET CENTENARIO OESTE",
-      "rubro": "Obras",
-      "zona": "Neuquén",
-      "estado": "Abierta",
-      "apertura": "2026-11-19T11:00:00-03:00",
-      "publicado": "2026-11-10",
-      "descripcion": "La Gerencia de Transporte solicita la adquisición de cinco (5) interruptores en 132 kV, en el marco de la ejecución de la obra “ET CENTENARIO OESTE 132/33/13,2 Kv”.",
-      "fuente": "https://www.epen.gov.ar/index.php/2026/11/10/licitacion-publica-n-40-2026-adquisicion-de-5-interruptores-en-132kv-et-centenario-oeste/"
-    },
-    {
       "id": "EPEN-41-2026",
       "organismo": "EPEN",
       "titulo": "LICITACIÓN PÚBLICA N° 41/2026 ADQUISICIÓN DE RECONECTADORES AUTOMÁTICOS DE 15KV Y 33KV – ÁREA OBRAS Y MANTENIMIENTO",
@@ -35,6 +23,18 @@
       "publicado": "2026-11-17",
       "descripcion": "La Gerencia de Distribución solicita la adquisición de reconectadores automáticos de 15kv y 33kv, destinados a las cuatro regionales.",
       "fuente": "https://www.epen.gov.ar/index.php/2026/11/17/licitacion-publica-n-41-2026-adquisicion-de-reconectadores-automaticos-de-15kv-y-33kv-area-obras-y-mantenimiento/"
+    },
+    {
+      "id": "EPEN-40-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N° 40/2026 ADQUISICIÓN DE 5 INTERRUPTORES EN 132KV – ET CENTENARIO OESTE",
+      "rubro": "Obras",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-12-17T10:00:00-03:00",
+      "publicado": "2026-11-19",
+      "descripcion": "La Gerencia de Transporte solicita la adquisición de cinco (5) interruptores en 132 kV, en el marco de la ejecución de la obra “ET CENTENARIO OESTE 132/33/13,2 Kv”.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/11/19/licitacion-publica-n-40-2026-adquisicion-de-5-interruptores-en-132kv-et-centenario-oeste/"
     },
     {
       "id": "EPEN-37-2026",
