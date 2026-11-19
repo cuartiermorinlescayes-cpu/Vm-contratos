@@ -1,29 +1,19 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "source": "Portal oficial de empleos de YPF",
   "source_url": "https://oportunidades.ypf.com/search/",
   "jobs": [
     {
-      "id": "YPF-122322",
-      "titulo": "Supervisor Produccion",
+      "id": "YPF-122272",
+      "titulo": "Ingeniero Procesos",
       "empresa": "YPF",
       "ubicacion": "Neuquén",
       "categoria": "Negocios",
       "publicado": "18 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Supervisor Produccion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-SUPERVISOR-PRODUCCION-NEUQ-8305/1451767500/"
-    },
-    {
-      "id": "YPF-122286",
-      "titulo": "Lider Bloque",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "18 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Lider Bloque en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-LIDER-BLOQUE-NEUQ-8300/1451774600/"
+      "descripcion": "Vacante oficial de YPF para Ingeniero Procesos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROCESOS-NEUQ-8305/1451923600/"
     },
     {
       "id": "YPF-122309",
@@ -36,14 +26,24 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-ANALISTA-SERVICIOS-REGIONALES-P&C-NEUQ-8300/1451849600/"
     },
     {
-      "id": "YPF-122272",
-      "titulo": "Ingeniero Procesos",
+      "id": "YPF-122286",
+      "titulo": "Lider Bloque",
       "empresa": "YPF",
       "ubicacion": "Neuquén",
       "categoria": "Negocios",
       "publicado": "18 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Ingeniero Procesos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROCESOS-NEUQ-8305/1451923600/"
+      "descripcion": "Vacante oficial de YPF para Lider Bloque en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-LIDER-BLOQUE-NEUQ-8300/1451774600/"
+    },
+    {
+      "id": "YPF-122322",
+      "titulo": "Supervisor Produccion",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "18 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Supervisor Produccion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-SUPERVISOR-PRODUCCION-NEUQ-8305/1451767500/"
     },
     {
       "id": "YPF-122199",
@@ -56,16 +56,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-MANTENIMIENTO-Y-CONFIABILIDAD-NEUQ-8300/1451287800/"
     },
     {
-      "id": "YPF-122310",
-      "titulo": "Programador",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "17 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Programador en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-PROGRAMADOR-NEUQ-8300/1451377400/"
-    },
-    {
       "id": "YPF-122311",
       "titulo": "Programador",
       "empresa": "YPF",
@@ -74,16 +64,6 @@
       "publicado": "17 nov 2026",
       "descripcion": "Vacante oficial de YPF para Programador en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-PROGRAMADOR-NEUQ-8300/1451382300/"
-    },
-    {
-      "id": "YPF-122357",
-      "titulo": "Gestor Wt Des Real Time",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "17 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Gestor Wt Des Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-WT-DES-REAL-TIME-NEUQ-8300/1451292200/"
     },
     {
       "id": "YPF-122313",
@@ -106,24 +86,24 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-PRODUCCION-REAL-TIME-NEUQ-8300/1451535100/"
     },
     {
-      "id": "YPF-122300",
+      "id": "YPF-122310",
       "titulo": "Programador",
       "empresa": "YPF",
       "ubicacion": "Neuquén",
       "categoria": "Negocios",
-      "publicado": "16 nov 2026",
+      "publicado": "17 nov 2026",
       "descripcion": "Vacante oficial de YPF para Programador en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-PROGRAMADOR-NEUQ-8300/1451051200/"
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-PROGRAMADOR-NEUQ-8300/1451377400/"
     },
     {
-      "id": "YPF-122301",
-      "titulo": "Gestor Integridad Y Mantenimiento Real Time",
+      "id": "YPF-122357",
+      "titulo": "Gestor Wt Des Real Time",
       "empresa": "YPF",
       "ubicacion": "Neuquén",
       "categoria": "Negocios",
-      "publicado": "16 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Gestor Integridad Y Mantenimiento Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-INTEGRIDAD-Y-MANTENIMIENTO-REAL-TIME-NEUQ-8300/1451029800/"
+      "publicado": "17 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Gestor Wt Des Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-WT-DES-REAL-TIME-NEUQ-8300/1451292200/"
     },
     {
       "id": "YPF-122038",
@@ -144,6 +124,26 @@
       "publicado": "16 nov 2026",
       "descripcion": "Vacante oficial de YPF para Jefe Operaciones Pulling Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-OPERACIONES-PULLING-REAL-TIME-NEUQ-8300/1450935200/"
+    },
+    {
+      "id": "YPF-122301",
+      "titulo": "Gestor Integridad Y Mantenimiento Real Time",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "16 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Gestor Integridad Y Mantenimiento Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-INTEGRIDAD-Y-MANTENIMIENTO-REAL-TIME-NEUQ-8300/1451029800/"
+    },
+    {
+      "id": "YPF-122300",
+      "titulo": "Programador",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "16 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Programador en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-PROGRAMADOR-NEUQ-8300/1451051200/"
     },
     {
       "id": "YPF-122263",
@@ -174,26 +174,6 @@
       "publicado": "12 nov 2026",
       "descripcion": "Vacante oficial de YPF para Gestor Contratos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-CONTRATOS-NEUQ-8300/1450168200/"
-    },
-    {
-      "id": "YPF-121872",
-      "titulo": "Programador Pywo",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "11 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Programador Pywo en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-PROGRAMADOR-PyWO-NEUQ-8305/1449794300/"
-    },
-    {
-      "id": "YPF-121992",
-      "titulo": "Gestor Ejecucion De Proyectos",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "11 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Gestor Ejecucion De Proyectos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-EJECUCION-DE-PROYECTOS-NEUQ-8300/1449895900/"
     },
     {
       "id": "YPF-122085",
