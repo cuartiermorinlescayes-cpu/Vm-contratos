@@ -26,16 +26,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-DE-PLANTA-NEUQ-8319/1452735800/"
     },
     {
-      "id": "YPF-122275",
-      "titulo": "Ingeniero Procesos",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "20 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Ingeniero Procesos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROCESOS-NEUQ-8300/1452655800/"
-    },
-    {
       "id": "YPF-122435",
       "titulo": "Técnico Seguimiento De Contratos",
       "empresa": "YPF",
@@ -44,6 +34,16 @@
       "publicado": "20 nov 2026",
       "descripcion": "Vacante oficial de YPF para Técnico Seguimiento De Contratos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-SEGUIMIENTO-DE-CONTRATOS-NEUQ-8300/1452521100/"
+    },
+    {
+      "id": "YPF-122275",
+      "titulo": "Ingeniero Procesos",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "20 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Ingeniero Procesos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROCESOS-NEUQ-8300/1452655800/"
     },
     {
       "id": "YPF-122404",
@@ -76,16 +76,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-MANTENIMIENTO-Y-CONFIABILIDAD-NEUQ-8300/1452159400/"
     },
     {
-      "id": "YPF-122272",
-      "titulo": "Ingeniero Procesos",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "18 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Ingeniero Procesos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROCESOS-NEUQ-8305/1451923600/"
-    },
-    {
       "id": "YPF-122286",
       "titulo": "Lider Bloque",
       "empresa": "YPF",
@@ -114,6 +104,16 @@
       "publicado": "18 nov 2026",
       "descripcion": "Vacante oficial de YPF para Supervisor Produccion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-SUPERVISOR-PRODUCCION-NEUQ-8305/1451767500/"
+    },
+    {
+      "id": "YPF-122272",
+      "titulo": "Ingeniero Procesos",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "18 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Ingeniero Procesos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROCESOS-NEUQ-8305/1451923600/"
     },
     {
       "id": "YPF-122313",
@@ -196,16 +196,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PRODUCCION-NEUQ-8305/1450678200/"
     },
     {
-      "id": "YPF-121992",
-      "titulo": "Gestor Ejecucion De Proyectos",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "11 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Gestor Ejecucion De Proyectos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-EJECUCION-DE-PROYECTOS-NEUQ-8300/1449895900/"
-    },
-    {
       "id": "YPF-122085",
       "titulo": "Ingeniero Estimulacion",
       "empresa": "YPF",
@@ -214,6 +204,16 @@
       "publicado": "11 nov 2026",
       "descripcion": "Vacante oficial de YPF para Ingeniero Estimulacion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-ESTIMULACION-NEUQ-8300/1449919000/"
+    },
+    {
+      "id": "YPF-121992",
+      "titulo": "Gestor Ejecucion De Proyectos",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "11 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Gestor Ejecucion De Proyectos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-GESTOR-EJECUCION-DE-PROYECTOS-NEUQ-8300/1449895900/"
     },
     {
       "id": "YPF-122193",
