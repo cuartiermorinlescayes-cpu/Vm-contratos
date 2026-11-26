@@ -6,6 +6,16 @@
   "source_url": "https://oportunidades.ypf.com/search/",
   "jobs": [
     {
+      "id": "YPF-122166",
+      "titulo": "Company Representative Perforacion",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "26 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Company Representative Perforacion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-COMPANY-REPRESENTATIVE-PERFORACION-NEUQ-8300/1454009400/"
+    },
+    {
       "id": "YPF-122353",
       "titulo": "Supervisor Plantas Trat. Crudos/Agua",
       "empresa": "YPF",
@@ -36,16 +46,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-DE-PLANTA-NEUQ-8319/1452735800/"
     },
     {
-      "id": "YPF-122275",
-      "titulo": "Ingeniero Procesos",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "20 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Ingeniero Procesos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROCESOS-NEUQ-8300/1452655800/"
-    },
-    {
       "id": "YPF-122404",
       "titulo": "Ingeniero Planificacion Terminacion Y Wo",
       "empresa": "YPF",
@@ -64,6 +64,16 @@
       "publicado": "20 nov 2026",
       "descripcion": "Vacante oficial de YPF para Técnico Seguimiento De Contratos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-SEGUIMIENTO-DE-CONTRATOS-NEUQ-8300/1452521100/"
+    },
+    {
+      "id": "YPF-122275",
+      "titulo": "Ingeniero Procesos",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "20 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Ingeniero Procesos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PROCESOS-NEUQ-8300/1452655800/"
     },
     {
       "id": "YPF-122359",

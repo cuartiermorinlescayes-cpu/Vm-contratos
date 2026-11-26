@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T08:22:30+00:00",
+  "updated": "2026-11-26T21:35:17+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -23,6 +23,18 @@
       "publicado": "2026-11-17",
       "descripcion": "La Gerencia de Distribución solicita la adquisición de reconectadores automáticos de 15kv y 33kv, destinados a las cuatro regionales.",
       "fuente": "https://www.epen.gov.ar/index.php/2026/11/17/licitacion-publica-n-41-2026-adquisicion-de-reconectadores-automaticos-de-15kv-y-33kv-area-obras-y-mantenimiento/"
+    },
+    {
+      "id": "EPEN-36-2026",
+      "organismo": "EPEN",
+      "titulo": "LICITACIÓN PÚBLICA N° 36/2026 SEGUNDO LLAMADO – «ADQUISICIÓN DE TRANSFORMADORES DE MEDICIÓN DE 132 KV»",
+      "rubro": "Energía",
+      "zona": "Neuquén",
+      "estado": "Abierta",
+      "apertura": "2026-12-10T10:00:00-03:00",
+      "publicado": "2026-11-26",
+      "descripcion": "La Gerencia de Transporte solicita la adquisición de transformadores de corriente y de tensión de 132 kV, destinados a diez campos de Estaciones Transformadoras.",
+      "fuente": "https://www.epen.gov.ar/index.php/2026/11/26/licitacion-publica-n-36-2026-segundo-llamado-adquisicion-de-transformadores-de-medicion-de-132-kv/"
     },
     {
       "id": "EPEN-37-2026",
