@@ -6,6 +6,36 @@
   "source_url": "https://oportunidades.ypf.com/search/",
   "jobs": [
     {
+      "id": "YPF-121619",
+      "titulo": "Supervisor De Arena",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Áreas corporativas",
+      "publicado": "27 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Supervisor De Arena en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-SUPERVISOR-DE-ARENA-NEUQ-8305/1444298400/"
+    },
+    {
+      "id": "YPF-122460",
+      "titulo": "Supervisor De Water Transfer",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "27 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Supervisor De Water Transfer en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-SUPERVISOR-DE-WATER-TRANSFER-NEUQ-8305/1454121600/"
+    },
+    {
+      "id": "YPF-122304",
+      "titulo": "Jefe Sala Real Time",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "27 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Jefe Sala Real Time en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-SALA-REAL-TIME-NEUQ-8300/1454108000/"
+    },
+    {
       "id": "YPF-122021",
       "titulo": "Company Representative Workover",
       "empresa": "YPF",
@@ -56,16 +86,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-JEFE-DE-PLANTA-NEUQ-8319/1452735800/"
     },
     {
-      "id": "YPF-122435",
-      "titulo": "Técnico Seguimiento De Contratos",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "20 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Técnico Seguimiento De Contratos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-SEGUIMIENTO-DE-CONTRATOS-NEUQ-8300/1452521100/"
-    },
-    {
       "id": "YPF-122275",
       "titulo": "Ingeniero Procesos",
       "empresa": "YPF",
@@ -84,6 +104,16 @@
       "publicado": "20 nov 2026",
       "descripcion": "Vacante oficial de YPF para Ingeniero Planificacion Terminacion Y Wo en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-PLANIFICACION-TERMINACION-Y-WO-NEUQ-8300/1452569500/"
+    },
+    {
+      "id": "YPF-122435",
+      "titulo": "Técnico Seguimiento De Contratos",
+      "empresa": "YPF",
+      "ubicacion": "Neuquén",
+      "categoria": "Negocios",
+      "publicado": "20 nov 2026",
+      "descripcion": "Vacante oficial de YPF para Técnico Seguimiento De Contratos en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
+      "fuente": "https://oportunidades.ypf.com/job/Neuquen-TECNICO-SEGUIMIENTO-DE-CONTRATOS-NEUQ-8300/1452521100/"
     },
     {
       "id": "YPF-122274",
@@ -106,16 +136,6 @@
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-ESTIMULACION-NEUQ-8300/1449919000/"
     },
     {
-      "id": "YPF-121677",
-      "titulo": "Ingeniero Reservorios",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Negocios",
-      "publicado": "5 nov 2026",
-      "descripcion": "Vacante oficial de YPF para Ingeniero Reservorios en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-INGENIERO-RESERVORIOS-NEUQ-8305/1437787800/"
-    },
-    {
       "id": "YPF-122113",
       "titulo": "Company Representative Perforacion",
       "empresa": "YPF",
@@ -124,16 +144,6 @@
       "publicado": "2 nov 2026",
       "descripcion": "Vacante oficial de YPF para Company Representative Perforacion en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
       "fuente": "https://oportunidades.ypf.com/job/Neuquen-COMPANY-REPRESENTATIVE-PERFORACION-NEUQ-8300/1446927900/"
-    },
-    {
-      "id": "YPF-121619",
-      "titulo": "Supervisor De Arena",
-      "empresa": "YPF",
-      "ubicacion": "Neuquén",
-      "categoria": "Áreas corporativas",
-      "publicado": "27 oct 2026",
-      "descripcion": "Vacante oficial de YPF para Supervisor De Arena en Neuquén. Consultá los requisitos, tareas y vigencia en la publicación oficial.",
-      "fuente": "https://oportunidades.ypf.com/job/Neuquen-SUPERVISOR-DE-ARENA-NEUQ-8305/1444298400/"
     }
   ]
 }

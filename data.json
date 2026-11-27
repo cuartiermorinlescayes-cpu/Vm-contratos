@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T08:38:05+00:00",
+  "updated": "2026-11-27T21:23:59+00:00",
   "automatic_update": true,
   "update_frequency_hours": 6,
   "sources": {
@@ -59,6 +59,54 @@
       "publicado": "2026-11-19",
       "descripcion": "La Gerencia de Transporte solicita la adquisición de cinco (5) interruptores en 132 kV, en el marco de la ejecución de la obra “ET CENTENARIO OESTE 132/33/13,2 Kv”.",
       "fuente": "https://www.epen.gov.ar/index.php/2026/11/19/licitacion-publica-n-40-2026-adquisicion-de-5-interruptores-en-132kv-et-centenario-oeste/"
+    },
+    {
+      "id": "EPEN-objetivos-2026-procedimiento-presentacion-de-ofertas-cpr-lpr-y-lpu-19-",
+      "organismo": "EPEN",
+      "titulo": "Procedimiento Presentación de ofertas Concurso de Precios, Licitaciones Privadas y Públicas",
+      "rubro": "Otros",
+      "zona": "Neuquén",
+      "estado": "Consultar fuente",
+      "apertura": null,
+      "publicado": null,
+      "descripcion": "Consultar descripción y condiciones en la fuente oficial.",
+      "fuente": "https://www.epen.gov.ar/wp-content/uploads/2026/11/Objetivos-2026-procedimiento-presentacion-de-ofertas-CPR-LPR-y-LPU-19-10-26.pdf"
+    },
+    {
+      "id": "EPEN-objetivos-2026-procedimiento-presentacion-de-ofertas-lpu-doble-sobre-2",
+      "organismo": "EPEN",
+      "titulo": "Procedimiento Presentación de ofertas LPU Doble Sobre",
+      "rubro": "Otros",
+      "zona": "Neuquén",
+      "estado": "Consultar fuente",
+      "apertura": null,
+      "publicado": null,
+      "descripcion": "Consultar descripción y condiciones en la fuente oficial.",
+      "fuente": "https://www.epen.gov.ar/wp-content/uploads/2026/11/Objetivos-2026-procedimiento-presentacion-de-ofertas-LPU-doble-sobre-28-10-26.pdf"
+    },
+    {
+      "id": "EPEN-procecimiento-concurso-de-precios-licitaciones-privadas-y-publicas-mp4",
+      "organismo": "EPEN",
+      "titulo": "https://www.epen.gov.ar/wp-content/uploads/2026/11/Procecimiento-Concurso-de-Precios-Licitaciones-Privadas-y-Publicas.mp4",
+      "rubro": "Otros",
+      "zona": "Neuquén",
+      "estado": "Consultar fuente",
+      "apertura": null,
+      "publicado": null,
+      "descripcion": "Consultar descripción y condiciones en la fuente oficial.",
+      "fuente": "https://www.epen.gov.ar/wp-content/uploads/2026/11/Procecimiento-Concurso-de-Precios-Licitaciones-Privadas-y-Publicas.mp4"
+    },
+    {
+      "id": "EPEN-procedimiento-licitacion-publica-doble-sobre-mp4",
+      "organismo": "EPEN",
+      "titulo": "https://www.epen.gov.ar/wp-content/uploads/2026/11/Procedimiento-Licitacion-Publica-doble-sobre.mp4",
+      "rubro": "Otros",
+      "zona": "Neuquén",
+      "estado": "Consultar fuente",
+      "apertura": null,
+      "publicado": null,
+      "descripcion": "Consultar descripción y condiciones en la fuente oficial.",
+      "fuente": "https://www.epen.gov.ar/wp-content/uploads/2026/11/Procedimiento-Licitacion-Publica-doble-sobre.mp4"
     }
   ]
 }
